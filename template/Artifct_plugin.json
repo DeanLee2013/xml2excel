@@ -1,0 +1,20 @@
+{
+  "$": {
+    "xsi:type": "org.eclipse.epf.uma:Artifact",
+    "xmi:id": "_Rv2LoDaUEeatdI28KsQmww",
+    "name": "new_artifact",
+    "guid": "_Rv2LoDaUEeatdI28KsQmww",
+    "presentationName": "New Artifact  111111",
+    "briefDescription": "11",
+    "templates": ""
+  },
+  "methodElementProperty": [
+    {
+      "$": {
+        "xmi:id": "_S0opcDaUEeatdI28KsQmww",
+        "name": "me_edited",
+        "value": "true"
+      }
+    }
+  ]
+}

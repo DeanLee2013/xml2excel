@@ -1,0 +1,39 @@
+{
+  "org.eclipse.epf.uma:TaskDescription": {
+    "$": {
+      "xmi:version": "2.0",
+      "xmlns:xmi": "http://www.omg.org/XMI",
+      "xmlns:org.eclipse.epf.uma": "http://www.eclipse.org/epf/uma/1.0.6/uma.ecore",
+      "xmlns:rmc": "http://www.ibm.com/rmc",
+      "rmc:version": "7.5.1",
+      "xmlns:epf": "http://www.eclipse.org/epf",
+      "epf:version": "1.5.1",
+      "xmi:id": "-siD5jizEm8MrSzn8JlQ_aQ",
+      "name": "接收业务需求,_3479bcfbaa84a9bf0ab472",
+      "guid": "-siD5jizEm8MrSzn8JlQ_aQ"
+    },
+    "mainDescription":"描述",
+    "sections": [
+      {
+        "$": {
+          "xmi:id": "_L3DPQCfNEeaAUs4sqIcCRg",
+          "name": "步骤1",
+          "guid": "_L3DPQCfNEeaAUs4sqIcCRg"
+        },
+        "sectionDescription": [
+          "描述1"
+        ]
+      },
+      {
+        "$": {
+          "xmi:id": "_OI9ngCfNEeaAUs4sqIcCRg",
+          "name": "步骤二",
+          "guid": "_OI9ngCfNEeaAUs4sqIcCRg"
+        },
+        "sectionDescription": [
+          "描述2"
+        ]
+      }
+    ]
+  }
+}

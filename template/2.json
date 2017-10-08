@@ -1,0 +1,291 @@
+{
+  "xmi:XMI": {
+    "$": {
+      "xmi:version": "2.0",
+      "xmlns:xmi": "http://www.omg.org/XMI",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "xmlns:org.eclipse.epf.uma": "http://www.eclipse.org/epf/uma/1.0.6/uma.ecore",
+      "xmlns:org.eclipse.epf.uma.resourcemanager": "http:///org/eclipse/epf/uma/resourcemanager.ecore",
+      "xmlns:rmc": "http://www.ibm.com/rmc",
+      "rmc:version": "7.5.1",
+      "xmlns:epf": "http://www.eclipse.org/epf",
+      "epf:version": "1.5.1"
+    },
+    "org.eclipse.epf.uma.resourcemanager:ResourceManager": [
+      {
+        "$": {
+          "xmi:id": "_xCjDEHDrEea59qKaRLgS8w",
+          "guid": "_xCjDEHDrEea59qKaRLgS8w"
+        },
+        "resourceDescriptors": [
+          {
+            "$": {
+              "xmi:id": "_b55eee795f9655e37b6351",
+              "id": "_1081ba17d683dc4600fca6",
+              "uri": "tasks/接收业务需求.xmi"
+            }
+          }
+        ]
+      }
+    ],
+    "org.eclipse.epf.uma:MethodPlugin": [
+      {
+        "$": {
+          "xmi:id": "_xCfYsHDrEea59qKaRLgS8w",
+          "name": "BOC_plugin",
+          "guid": "_xCfYsHDrEea59qKaRLgS8w"
+        },
+        "methodElementProperty": [
+          {
+            "$": {
+              "xmi:id": "_xCjDEnDrEea59qKaRLgS8w",
+              "name": "plugin_synFree",
+              "value": "true"
+            }
+          }
+        ],
+        "methodPackages": [
+          {
+            "$": {
+              "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+              "xmi:id": "_xCfYsXDrEea59qKaRLgS8w",
+              "name": "Content",
+              "guid": "_xCfYsXDrEea59qKaRLgS8w"
+            },
+            "childPackages": [
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                  "xmi:id": "_xCf_wHDrEea59qKaRLgS8w",
+                  "name": "Categories",
+                  "guid": "_xCf_wHDrEea59qKaRLgS8w"
+                },
+                "childPackages": [
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_xCf_wXDrEea59qKaRLgS8w",
+                      "name": "Domains",
+                      "guid": "_xCf_wXDrEea59qKaRLgS8w"
+                    }
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_xCf_wnDrEea59qKaRLgS8w",
+                      "name": "Disciplines",
+                      "guid": "_xCf_wnDrEea59qKaRLgS8w"
+                    }
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_xCf_w3DrEea59qKaRLgS8w",
+                      "name": "RoleSets",
+                      "guid": "_xCf_w3DrEea59qKaRLgS8w"
+                    }
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_xCf_xHDrEea59qKaRLgS8w",
+                      "name": "WP Types",
+                      "guid": "_xCf_xHDrEea59qKaRLgS8w"
+                    }
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_xCf_xXDrEea59qKaRLgS8w",
+                      "name": "Tools",
+                      "guid": "_xCf_xXDrEea59qKaRLgS8w"
+                    }
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_xCf_xnDrEea59qKaRLgS8w",
+                      "name": "StandardCategories",
+                      "guid": "_xCf_xnDrEea59qKaRLgS8w"
+                    }
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_xCf_x3DrEea59qKaRLgS8w",
+                      "name": "CustomCategories",
+                      "guid": "_xCf_x3DrEea59qKaRLgS8w"
+                    },
+                    "childPackages": [
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                          "xmi:id": "_xCf_yHDrEea59qKaRLgS8w",
+                          "name": "Hidden",
+                          "guid": "_xCf_yHDrEea59qKaRLgS8w"
+                        },
+                        "contentElements": [
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:CustomCategory",
+                              "xmi:id": "_xCf_yXDrEea59qKaRLgS8w",
+                              "name": "定制类别",
+                              "guid": "_xCf_yXDrEea59qKaRLgS8w"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                  "xmi:id": "_xCf_ynDrEea59qKaRLgS8w",
+                  "name": "CoreContent",
+                  "guid": "_xCf_ynDrEea59qKaRLgS8w"
+                },
+                "childPackages": [
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_e_a_YHDsEea59qKaRLgS8w",
+                      "name": "产品设计与实现过程文件test",
+                      "guid": "_e_a_YHDsEea59qKaRLgS8w",
+                      "presentationName": "产品设计与实现过程文件test"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_fZH40HDsEea59qKaRLgS8w",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ],
+                    "childPackages": [
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                          "xmi:id": "_90d0e98c86602ec77c2abf",
+                          "name": "意向需求获取",
+                          "guid": "_90d0e98c86602ec77c2abf",
+                          "presentationName": "意向需求获取"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_pa4M0CgKEeaKzYzycMmkRw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "contentElements": [
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_c64f5d12be8dc24b1ca865",
+                              "name": "接收业务需求",
+                              "guid": "_c64f5d12be8dc24b1ca865",
+                              "briefDescription": "22",
+                              "mandatoryInput": "undefined ",
+                              "output": "undefined ",
+                              "performedBy": "_e1a56780fa48b8544e2418 ",
+                              "supportingMaterials": "_895313b8147a09ea1acb17 "
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_cPT8sDkcEeaWnYMysYl40g",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ],
+                            "presentation": [
+                              {
+                                "$": {
+                                  "xmi:id": "_1081ba17d683dc4600fca6",
+                                  "href": "uma://_1081ba17d683dc4600fca6#_1081ba17d683dc4600fca6"
+                                }
+                              }
+                            ]
+                          }
+                        ],
+                        "childPackages": [
+
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_xGYkwHNdEea58-djeSSfQg",
+                      "name": "角色内容包test",
+                      "guid": "_xGYkwHNdEea58-djeSSfQg",
+                      "presentationName": "角色内容包test"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_xYAgQHNdEea58-djeSSfQg",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_TXHlkHTIEea58-djeSSfQg",
+                      "name": "支持文件内容包test",
+                      "guid": "_TXHlkHTIEea58-djeSSfQg",
+                      "presentationName": "支持文件内容包test"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_ULpZ0HTIEea58-djeSSfQg",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+                  "xmi:id": "_xCf_y3DrEea59qKaRLgS8w",
+                  "name": "CapabilityPatterns",
+                  "guid": "_xCf_y3DrEea59qKaRLgS8w"
+                }
+              }
+            ]
+          },
+          {
+            "$": {
+              "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+              "xmi:id": "_xCf_zHDrEea59qKaRLgS8w",
+              "name": "DeliveryProcesses",
+              "guid": "_xCf_zHDrEea59qKaRLgS8w"
+            }
+          },
+          {
+            "$": {
+              "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+              "xmi:id": "_xCf_zXDrEea59qKaRLgS8w",
+              "name": "ProcessContributions",
+              "guid": "_xCf_zXDrEea59qKaRLgS8w"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

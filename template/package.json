@@ -1,0 +1,4189 @@
+{
+  "xmi:XMI": {
+    "$": {
+      "xmi:version": "2.0",
+      "xmlns:xmi": "http://www.omg.org/XMI",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "xmlns:org.eclipse.epf.uma": "http://www.eclipse.org/epf/uma/1.0.6/uma.ecore",
+      "xmlns:org.eclipse.epf.uma.resourcemanager": "http:///org/eclipse/epf/uma/resourcemanager.ecore",
+      "xmlns:rmc": "http://www.ibm.com/rmc",
+      "rmc:version": "7.5.1",
+      "xmlns:epf": "http://www.eclipse.org/epf",
+      "epf:version": "1.5.1"
+    },
+    "org.eclipse.epf.uma.resourcemanager:ResourceManager": [
+      {
+        "$": {
+          "xmi:id": "_TKP0IClOEeabmZQ4OgAhFg",
+          "guid": "_TKP0IClOEeabmZQ4OgAhFg"
+        },
+        "subManagers": [
+          {
+            "$": {
+              "xmi:id": "_BXWIUSvBEeaKzOMW0LqtbQ",
+              "href": "uma://_BWvrYCvBEeaKzOMW0LqtbQ#_BXWIUSvBEeaKzOMW0LqtbQ"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_m_9IkSvmEeaKzOMW0LqtbQ",
+              "href": "uma://_m_gcoCvmEeaKzOMW0LqtbQ#_m_9IkSvmEeaKzOMW0LqtbQ"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_S89M8SvpEeaKzOMW0LqtbQ",
+              "href": "uma://_S8ghACvpEeaKzOMW0LqtbQ#_S89M8SvpEeaKzOMW0LqtbQ"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_jrOhESvpEeaKzOMW0LqtbQ",
+              "href": "uma://_jqycMCvpEeaKzOMW0LqtbQ#_jrOhESvpEeaKzOMW0LqtbQ"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_Bzt3ACyMEeaKzOMW0LqtbQ",
+              "href": "uma://_-CqnQCyLEeaKzOMW0LqtbQ#_Bzt3ACyMEeaKzOMW0LqtbQ"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_BzwTQCyMEeaKzOMW0LqtbQ",
+              "href": "uma://_-Cr1YiyLEeaKzOMW0LqtbQ#_BzwTQCyMEeaKzOMW0LqtbQ"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_Bzz9oCyMEeaKzOMW0LqtbQ",
+              "href": "uma://_-Cr1aCyLEeaKzOMW0LqtbQ#_Bzz9oCyMEeaKzOMW0LqtbQ"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_UpKAsC61EeaodbM2zcfHJw",
+              "href": "uma://_Uj0NsC61EeaodbM2zcfHJw#_UpKAsC61EeaodbM2zcfHJw"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_WVltUS61EeaodbM2zcfHJw",
+              "href": "uma://_WU6-8C61EeaodbM2zcfHJw#_WVltUS61EeaodbM2zcfHJw"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_YaDfcS61EeaodbM2zcfHJw",
+              "href": "uma://_YZe3sC61EeaodbM2zcfHJw#_YaDfcS61EeaodbM2zcfHJw"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_ajSc0S61EeaodbM2zcfHJw",
+              "href": "uma://_aiz7sC61EeaodbM2zcfHJw#_ajSc0S61EeaodbM2zcfHJw"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_d4uHkC61EeaodbM2zcfHJw",
+              "href": "uma://_d4Jf0C61EeaodbM2zcfHJw#_d4uHkC61EeaodbM2zcfHJw"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_f_kfUS61EeaodbM2zcfHJw",
+              "href": "uma://_f_F-MC61EeaodbM2zcfHJw#_f_kfUS61EeaodbM2zcfHJw"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_GCcgES7jEeaodbM2zcfHJw",
+              "href": "uma://_GB9-8C7jEeaodbM2zcfHJw#_GCcgES7jEeaodbM2zcfHJw"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_m2lK0S-vEeaodbM2zcfHJw",
+              "href": "uma://_k0Hj0C-vEeaodbM2zcfHJw#_m2lK0S-vEeaodbM2zcfHJw"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_y675USokEeauZ74kdeCjYw",
+              "href": "uma://_y5vmgCokEeauZ74kdeCjYw#_y675USokEeauZ74kdeCjYw"
+            }
+          }
+        ],
+        "resourceDescriptors": [
+          {
+            "$": {
+              "xmi:id": "_LWKscClREeabmZQ4OgAhFg",
+              "id": "-QwsnRg2zqYslWcGJ9Jm0jQ",
+              "uri": "tasks/3.1.5.3.%20与用户进行需求交流.xmi"
+            }
+          },
+
+          {
+            "$": {
+              "xmi:id": "_arrvESssEeabmZQ4OgAhFg",
+              "id": "-d13Jp3e4W3SX6BwcICo6yA",
+              "uri": "tasks/3.2.5.1.3.%20编写技术框架方案.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_SxRf0SuFEeabmZQ4OgAhFg",
+              "id": "-DWMZtcQFR7mj9Pf3p-5glw",
+              "uri": "rolesets/07%20产品设计与实现过程方法内容.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_BW5cYCvBEeaKzOMW0LqtbQ",
+              "id": "_BWvrYCvBEeaKzOMW0LqtbQ",
+              "uri": "deliveryprocesses/3.2技术框架方案制定(完成)/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_m_gcoyvmEeaKzOMW0LqtbQ",
+              "id": "_m_gcoCvmEeaKzOMW0LqtbQ",
+              "uri": "deliveryprocesses/07产品技术与实现过程-面向对象（完整）/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_S8ghAyvpEeaKzOMW0LqtbQ",
+              "id": "_S8ghACvpEeaKzOMW0LqtbQ",
+              "uri": "deliveryprocesses/3.1.意向需求获取（完成）/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_jqycMyvpEeaKzOMW0LqtbQ",
+              "id": "_jqycMCvpEeaKzOMW0LqtbQ",
+              "uri": "deliveryprocesses/3.1.意向需求获取（步骤示例）/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_BzsB0CyMEeaKzOMW0LqtbQ",
+              "id": "_-CqnQCyLEeaKzOMW0LqtbQ",
+              "uri": "deliveryprocesses/3.1.意向需求获取(面向对象)/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_BzvsMCyMEeaKzOMW0LqtbQ",
+              "id": "_-Cr1YiyLEeaKzOMW0LqtbQ",
+              "uri": "deliveryprocesses/3.1.意向需求获取（步骤）(面向对象)/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_BzyIcCyMEeaKzOMW0LqtbQ",
+              "id": "_-Cr1aCyLEeaKzOMW0LqtbQ",
+              "uri": "deliveryprocesses/3.2技术框架方案制定(面向对象)/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_UoM-cC61EeaodbM2zcfHJw",
+              "id": "_Uj0NsC61EeaodbM2zcfHJw",
+              "uri": "deliveryprocesses/06%20产品缺陷分析管理过程/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_WVBFkC61EeaodbM2zcfHJw",
+              "id": "_WU6-8C61EeaodbM2zcfHJw",
+              "uri": "deliveryprocesses/05%20产品维护过程/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_YZk-UC61EeaodbM2zcfHJw",
+              "id": "_YZe3sC61EeaodbM2zcfHJw",
+              "uri": "deliveryprocesses/04%20产品管理过程/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_aiz7sy61EeaodbM2zcfHJw",
+              "id": "_aiz7sC61EeaodbM2zcfHJw",
+              "uri": "deliveryprocesses/03%20产品推广过程/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_d4Jf0y61EeaodbM2zcfHJw",
+              "id": "_d4Jf0C61EeaodbM2zcfHJw",
+              "uri": "deliveryprocesses/02%20产品功能测试过程/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_f_ME0C61EeaodbM2zcfHJw",
+              "id": "_f_F-MC61EeaodbM2zcfHJw",
+              "uri": "deliveryprocesses/01%20IT环境管理过程/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_0bkc4S7KEeaodbM2zcfHJw",
+              "id": "-h-B5WHITqeIEHbSEIK609Q",
+              "uri": "workproducts/技术框架方案及其他工作产品.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_GCEFkC7jEeaodbM2zcfHJw",
+              "id": "_GB9-8C7jEeaodbM2zcfHJw",
+              "uri": "deliveryprocesses/部署交付流程/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_I0Ec4S8UEeaodbM2zcfHJw",
+              "id": "-8sAFSvtEVTGy1XiRLduoQQ",
+              "uri": "tasks/3.1.5.2.%20初步分析业务需求.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_PV6ToC-gEeaodbM2zcfHJw",
+              "id": "-j2-JTON8nVzwhY6l7knkLg",
+              "uri": "rolesets/测试部.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_QLOLAC-gEeaodbM2zcfHJw",
+              "id": "-8ujdeLnc9DRVSWZP4UI33g",
+              "uri": "rolesets/工程管理部.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_Q22h8C-gEeaodbM2zcfHJw",
+              "id": "-dFW_IoupRtcDDCKoSXgitQ",
+              "uri": "rolesets/维护部.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_RcpWoC-gEeaodbM2zcfHJw",
+              "id": "--pFUm379GLazViLwaVxEWQ",
+              "uri": "rolesets/项目管理部.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_R8EdkC-gEeaodbM2zcfHJw",
+              "id": "-v9hi7r9QtfWC9_rlxXNXrQ",
+              "uri": "rolesets/质量管理部.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_Sei4gC-gEeaodbM2zcfHJw",
+              "id": "-z2lWw-PWoodeLMyE08NrnA",
+              "uri": "rolesets/主管总经理室.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_S4N8wC-gEeaodbM2zcfHJw",
+              "id": "-atQ57ofqeVvRYrhQ5gUy1g",
+              "uri": "rolesets/总体部.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_m2lK0C-vEeaodbM2zcfHJw",
+              "id": "_k0Hj0C-vEeaodbM2zcfHJw",
+              "uri": "deliveryprocesses/07产品技术与实现过程-面向过程（完整）/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_Vu7MoDB7EeaodbM2zcfHJw",
+              "id": "-qUZxDXPRx9oH-WoQ0370wg",
+              "uri": "guidances/toolmentors/11.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_y6ChcCokEeauZ74kdeCjYw",
+              "id": "_y5vmgCokEeauZ74kdeCjYw",
+              "uri": "capabilitypatterns/123/model.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_zEcjAFh5EeatdI28KsQmww",
+              "id": "-SQaR1vz8xREzb7yWj_VBZQ",
+              "uri": "roles/总体部与工程管理部.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_Z6JoUFh6EeatdI28KsQmww",
+              "id": "-5Rqvwu1i4hZ1LRuCRfN5zw",
+              "uri": "tasks/ 接收业务需求.xmi"
+            }
+          },
+          {
+            "$": {
+              "xmi:id": "_Sa9BISfNEeaAUs4sqIcCRg",
+              "id": "-siD5jizEm8MrSzn8JlQ_aQ",
+              "uri": "tasks/接收业务需求.xmi"
+            }
+          }
+        ]
+      }
+    ],
+    "org.eclipse.epf.uma:MethodPlugin": [
+      {
+        "$": {
+          "xmi:id": "_TKMJwClOEeabmZQ4OgAhFg",
+          "name": "BOC_SoftwareCenter_RMC",
+          "guid": "_TKMJwClOEeabmZQ4OgAhFg"
+        },
+        "ownedRules": [
+          {
+            "$": {
+              "xmi:id": "_kw_AQC7_EeaodbM2zcfHJw",
+              "name": "wpState",
+              "guid": "_kw_AQC7_EeaodbM2zcfHJw",
+              "briefDescription": "评估中",
+              "body": "评估中"
+            }
+          }
+        ],
+        "methodElementProperty": [
+          {
+            "$": {
+              "xmi:id": "_TKP0IilOEeabmZQ4OgAhFg",
+              "name": "plugin_synFree",
+              "value": "true"
+            }
+          }
+        ],
+        "methodPackages": [
+          {
+            "$": {
+              "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+              "xmi:id": "_TKMJwSlOEeabmZQ4OgAhFg",
+              "name": "Content",
+              "guid": "_TKMJwSlOEeabmZQ4OgAhFg"
+            },
+            "childPackages": [
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                  "xmi:id": "_TKMJwilOEeabmZQ4OgAhFg",
+                  "name": "Categories",
+                  "guid": "_TKMJwilOEeabmZQ4OgAhFg"
+                },
+                "childPackages": [
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_TKMJwylOEeabmZQ4OgAhFg",
+                      "name": "Domains",
+                      "guid": "_TKMJwylOEeabmZQ4OgAhFg"
+                    },
+                    "contentElements": [
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Domain",
+                          "xmi:id": "_ppdSgClWEeabmZQ4OgAhFg",
+                          "name": "07 产品设计与实现过程方法内容",
+                          "guid": "_ppdSgClWEeabmZQ4OgAhFg",
+                          "presentationName": "07 产品设计与实现过程方法内容",
+                          "workProducts": "_WWe_QClREeabmZQ4OgAhFg _0wd7cCuAEeabmZQ4OgAhFg _2mS0oCuAEeabmZQ4OgAhFg _4I7sECuAEeabmZQ4OgAhFg _5n_rECuAEeabmZQ4OgAhFg _6z3oUCuAEeabmZQ4OgAhFg _8nxO4CuAEeabmZQ4OgAhFg _-DHLgCuAEeabmZQ4OgAhFg __t7ukCuAEeabmZQ4OgAhFg _A9huMCuBEeabmZQ4OgAhFg _w7lUkCuAEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_sGdgcClWEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "subdomains": [
+                          {
+                            "$": {
+                              "xmi:id": "_WROTQC7MEeaodbM2zcfHJw",
+                              "name": "3.1. 意向需求获取",
+                              "guid": "_WROTQC7MEeaodbM2zcfHJw",
+                              "presentationName": "3.1. 意向需求获取",
+                              "workProducts": "_Z2zwsCooEeabmZQ4OgAhFg _zTnpoC8HEeaodbM2zcfHJw _3M0IwC8HEeaodbM2zcfHJw _nBH9QC8HEeaodbM2zcfHJw _x4WlgC8HEeaodbM2zcfHJw _xaeAkCouEeabmZQ4OgAhFg _paeaQC8HEeaodbM2zcfHJw _tUJagC8HEeaodbM2zcfHJw _wWULAC8HEeaodbM2zcfHJw _WWe_QClREeabmZQ4OgAhFg _aUfosC7-EeaodbM2zcfHJw _1RgSoC8HEeaodbM2zcfHJw _uztIwC8HEeaodbM2zcfHJw _aEusYC8UEeaodbM2zcfHJw"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "__Z8s0C8IEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xmi:id": "_DNzY8C8JEeaodbM2zcfHJw",
+                              "name": "3.2. 技术框架方案制定",
+                              "guid": "_DNzY8C8JEeaodbM2zcfHJw",
+                              "presentationName": "3.2. 技术框架方案制定",
+                              "workProducts": "_cUaqIC7fEeaodbM2zcfHJw"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_Q58Y0C8JEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xmi:id": "_DpXTkC8JEeaodbM2zcfHJw",
+                              "name": "3.3. 用户需求细化",
+                              "guid": "_DpXTkC8JEeaodbM2zcfHJw",
+                              "presentationName": "3.3. 用户需求细化"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_j5gaIC8JEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xmi:id": "_4t4ToC-bEeaodbM2zcfHJw",
+                              "name": "3.4. 技术方案制定",
+                              "guid": "_4t4ToC-bEeaodbM2zcfHJw",
+                              "presentationName": "3.4. 技术方案制定"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_7kgigC-bEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xmi:id": "_5KZQgC-bEeaodbM2zcfHJw",
+                              "name": "3.5. 需求分析",
+                              "guid": "_5KZQgC-bEeaodbM2zcfHJw",
+                              "presentationName": "3.5. 需求分析"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_9CimwC-bEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xmi:id": "_5fL0wC-bEeaodbM2zcfHJw",
+                              "name": "3.6. 总体设计",
+                              "guid": "_5fL0wC-bEeaodbM2zcfHJw",
+                              "presentationName": "3.6. 总体设计"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_-ik2IC-bEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xmi:id": "_6IepYC-bEeaodbM2zcfHJw",
+                              "name": "3.7. 详细设计",
+                              "guid": "_6IepYC-bEeaodbM2zcfHJw",
+                              "presentationName": "3.7. 详细设计"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "__urc4C-bEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xmi:id": "_AJeigC-cEeaodbM2zcfHJw",
+                              "name": "3.8. 程序实现",
+                              "guid": "_AJeigC-cEeaodbM2zcfHJw",
+                              "presentationName": "3.8. 程序实现"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_BEgnYC-cEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xmi:id": "_Bu2k4C-cEeaodbM2zcfHJw",
+                              "name": "3.9. 投产方案制定",
+                              "guid": "_Bu2k4C-cEeaodbM2zcfHJw",
+                              "presentationName": "3.9. 投产方案制定"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_CsLIwC-cEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Domain",
+                          "xmi:id": "_KyRCMC8EEeaodbM2zcfHJw",
+                          "name": "01 IT环境管理过程",
+                          "guid": "_KyRCMC8EEeaodbM2zcfHJw",
+                          "presentationName": "01 IT环境管理过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_O2tvEC8EEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Domain",
+                          "xmi:id": "_LIS8kC8EEeaodbM2zcfHJw",
+                          "name": "02 产品功能测试过程",
+                          "guid": "_LIS8kC8EEeaodbM2zcfHJw",
+                          "presentationName": "02 产品功能测试过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_Q8UwsC8EEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Domain",
+                          "xmi:id": "_LeU28C8EEeaodbM2zcfHJw",
+                          "name": "03 产品推广过程",
+                          "guid": "_LeU28C8EEeaodbM2zcfHJw",
+                          "presentationName": "03 产品推广过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_T2rB8C8EEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Domain",
+                          "xmi:id": "_LuuqcC8EEeaodbM2zcfHJw",
+                          "name": "09 供应商与合同管理过程",
+                          "guid": "_LuuqcC8EEeaodbM2zcfHJw",
+                          "presentationName": "09 供应商与合同管理过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_pLlXwC8JEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Domain",
+                          "xmi:id": "_W8XnkC8EEeaodbM2zcfHJw",
+                          "name": "05 产品维护过程",
+                          "guid": "_W8XnkC8EEeaodbM2zcfHJw",
+                          "presentationName": "05 产品维护过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_YHU-0C8EEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Domain",
+                          "xmi:id": "_XQHC8C8EEeaodbM2zcfHJw",
+                          "name": "06 产品缺陷分析管理过程",
+                          "guid": "_XQHC8C8EEeaodbM2zcfHJw",
+                          "presentationName": "06 产品缺陷分析管理过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_Z-oesC8EEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Domain",
+                          "xmi:id": "_XhXyEC8EEeaodbM2zcfHJw",
+                          "name": "08 人力资源管理过程",
+                          "guid": "_XhXyEC8EEeaodbM2zcfHJw",
+                          "presentationName": "08 人力资源管理过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_my_vwC8JEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Domain",
+                          "xmi:id": "_JjSQ4C-kEeaodbM2zcfHJw",
+                          "name": "new_domain",
+                          "guid": "_JjSQ4C-kEeaodbM2zcfHJw",
+                          "presentationName": "New Domain"
+                        }
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Domain",
+                          "xmi:id": "_1vPCIC-kEeaodbM2zcfHJw",
+                          "name": "04 产品管理过程",
+                          "guid": "_1vPCIC-kEeaodbM2zcfHJw",
+                          "presentationName": "04 产品管理过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_2D9U8C-kEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_TKMJxClOEeabmZQ4OgAhFg",
+                      "name": "Disciplines",
+                      "guid": "_TKMJxClOEeabmZQ4OgAhFg"
+                    },
+                    "contentElements": [
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Discipline",
+                          "xmi:id": "_kVbNEClWEeabmZQ4OgAhFg",
+                          "name": "02 产品功能测试过程",
+                          "guid": "_kVbNEClWEeabmZQ4OgAhFg",
+                          "presentationName": "02 产品功能测试过程",
+                          "supportingMaterials": "_y4p9MCorEeabmZQ4OgAhFg",
+                          "tasks": "_9gJ-4ClQEeabmZQ4OgAhFg _DztnoClREeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_pViQ8ClWEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:DisciplineGrouping",
+                          "xmi:id": "_L_cXYCscEeabmZQ4OgAhFg",
+                          "name": "01 IT环境管理过程",
+                          "guid": "_L_cXYCscEeabmZQ4OgAhFg",
+                          "presentationName": "01 IT环境管理过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_T5WS4CscEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:DisciplineGrouping",
+                          "xmi:id": "_Potw4CssEeabmZQ4OgAhFg",
+                          "name": "07产品设计与实现过程",
+                          "guid": "_Potw4CssEeabmZQ4OgAhFg",
+                          "presentationName": "07产品设计与实现过程",
+                          "disciplines": "_uYmBcC8EEeaodbM2zcfHJw _J9Jl0C8JEeaodbM2zcfHJw _D0LSoC-cEeaodbM2zcfHJw _FDVNYC-cEeaodbM2zcfHJw _FoDEAC-cEeaodbM2zcfHJw _GNJVIC-cEeaodbM2zcfHJw _HarfQC-cEeaodbM2zcfHJw _ITO34C-cEeaodbM2zcfHJw _IoyRIC-cEeaodbM2zcfHJw"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_2KqMECuBEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Discipline",
+                          "xmi:id": "_uYmBcC8EEeaodbM2zcfHJw",
+                          "name": "3.1. 意向需求获取",
+                          "guid": "_uYmBcC8EEeaodbM2zcfHJw",
+                          "presentationName": "3.1. 意向需求获取",
+                          "supportingMaterials": "_y4p9MCorEeabmZQ4OgAhFg",
+                          "tasks": "_9gJ-4ClQEeabmZQ4OgAhFg _DztnoClREeabmZQ4OgAhFg _2aJVsColEeabmZQ4OgAhFg _5xfE8ColEeabmZQ4OgAhFg _29jNgClQEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_vpwHUC8EEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "referenceWorkflows": [
+                          {
+                            "$": {
+                              "href": "uma://_-CqnQCyLEeaKzOMW0LqtbQ#_-CrOUSyLEeaKzOMW0LqtbQ"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Discipline",
+                          "xmi:id": "_J9Jl0C8JEeaodbM2zcfHJw",
+                          "name": "3.2. 技术框架方案制定",
+                          "guid": "_J9Jl0C8JEeaodbM2zcfHJw",
+                          "presentationName": "3.2. 技术框架方案制定",
+                          "tasks": "_S26LMCssEeabmZQ4OgAhFg _VwSMECssEeabmZQ4OgAhFg _Yiz-ECssEeabmZQ4OgAhFg _nDJP0CuAEeabmZQ4OgAhFg _oSJZkCuAEeabmZQ4OgAhFg _o9ljQCuAEeabmZQ4OgAhFg _q34FsCuAEeabmZQ4OgAhFg _sSMHkCuAEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_LOyM0C8JEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "referenceWorkflows": [
+                          {
+                            "$": {
+                              "href": "uma://_-Cr1aCyLEeaKzOMW0LqtbQ#_-CscdiyLEeaKzOMW0LqtbQ"
+                            }
+                          },
+                          {
+                            "$": {
+                              "href": "uma://_S8ghACvpEeaKzOMW0LqtbQ#_S8ghASvpEeaKzOMW0LqtbQ"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Discipline",
+                          "xmi:id": "_D0LSoC-cEeaodbM2zcfHJw",
+                          "name": "3.9. 投产方案制定",
+                          "guid": "_D0LSoC-cEeaodbM2zcfHJw",
+                          "presentationName": "3.9. 投产方案制定"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_EkDQYC-cEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Discipline",
+                          "xmi:id": "_FDVNYC-cEeaodbM2zcfHJw",
+                          "name": "3.8. 程序实现",
+                          "guid": "_FDVNYC-cEeaodbM2zcfHJw",
+                          "presentationName": "3.8. 程序实现"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_K_SOcC-cEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Discipline",
+                          "xmi:id": "_FoDEAC-cEeaodbM2zcfHJw",
+                          "name": "3.7. 详细设计",
+                          "guid": "_FoDEAC-cEeaodbM2zcfHJw",
+                          "presentationName": "3.7. 详细设计"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_MkwXcC-cEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Discipline",
+                          "xmi:id": "_GNJVIC-cEeaodbM2zcfHJw",
+                          "name": "3.6. 总体设计",
+                          "guid": "_GNJVIC-cEeaodbM2zcfHJw",
+                          "presentationName": "3.6. 总体设计"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_N2MxMC-cEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Discipline",
+                          "xmi:id": "_HarfQC-cEeaodbM2zcfHJw",
+                          "name": "3.5. 需求分析",
+                          "guid": "_HarfQC-cEeaodbM2zcfHJw",
+                          "presentationName": "3.5. 需求分析"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_O8Mv8C-cEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Discipline",
+                          "xmi:id": "_ITO34C-cEeaodbM2zcfHJw",
+                          "name": "3.4. 技术方案制定",
+                          "guid": "_ITO34C-cEeaodbM2zcfHJw",
+                          "presentationName": "3.4. 技术方案制定"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_QHQN0C-cEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Discipline",
+                          "xmi:id": "_IoyRIC-cEeaodbM2zcfHJw",
+                          "name": "3.3. 用户需求细化",
+                          "guid": "_IoyRIC-cEeaodbM2zcfHJw",
+                          "presentationName": "3.3. 用户需求细化"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_RUsRUC-cEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:DisciplineGrouping",
+                          "xmi:id": "_82M6QC-jEeaodbM2zcfHJw",
+                          "name": "06 产品缺陷分析管理过程",
+                          "guid": "_82M6QC-jEeaodbM2zcfHJw",
+                          "presentationName": "06 产品缺陷分析管理过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_D5mrkC-kEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:DisciplineGrouping",
+                          "xmi:id": "_9XS1IC-jEeaodbM2zcfHJw",
+                          "name": "03 产品推广过程",
+                          "guid": "_9XS1IC-jEeaodbM2zcfHJw",
+                          "presentationName": "03 产品推广过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_F36yYC-kEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:DisciplineGrouping",
+                          "xmi:id": "_-EvJ8C-jEeaodbM2zcfHJw",
+                          "name": "05 产品维护过程",
+                          "guid": "_-EvJ8C-jEeaodbM2zcfHJw",
+                          "presentationName": "05产品维护过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_H0zV0C-kEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:DisciplineGrouping",
+                          "xmi:id": "__rfsYC-jEeaodbM2zcfHJw",
+                          "name": "08 人力资源管理过程",
+                          "guid": "__rfsYC-jEeaodbM2zcfHJw",
+                          "presentationName": "08 人力资源管理过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_DCbzAC-kEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:DisciplineGrouping",
+                          "xmi:id": "_ANRjwC-kEeaodbM2zcfHJw",
+                          "name": "09 供应商与合同管理过程",
+                          "guid": "_ANRjwC-kEeaodbM2zcfHJw",
+                          "presentationName": "09 供应商与合同管理过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_BxLmgC-kEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:DisciplineGrouping",
+                          "xmi:id": "_0Q3msC-kEeaodbM2zcfHJw",
+                          "name": "04 产品管理过程",
+                          "guid": "_0Q3msC-kEeaodbM2zcfHJw",
+                          "presentationName": "04 产品管理过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_0nqWEC-kEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_TKMJxSlOEeabmZQ4OgAhFg",
+                      "name": "RoleSets",
+                      "guid": "_TKMJxSlOEeabmZQ4OgAhFg"
+                    },
+                    "contentElements": [
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_db9a4ClWEeabmZQ4OgAhFg",
+                          "name": "总体部",
+                          "guid": "_db9a4ClWEeabmZQ4OgAhFg",
+                          "presentationName": "总体部",
+                          "briefDescription": "简短描述",
+                          "roles": "_e4nfACsrEeabmZQ4OgAhFg _Z7by1y7aEeaodbM2zcfHJw"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_hrcTEClWEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "presentation": [
+                          {
+                            "$": {
+                              "xmi:id": "-atQ57ofqeVvRYrhQ5gUy1g",
+                              "href": "uma://-atQ57ofqeVvRYrhQ5gUy1g#-atQ57ofqeVvRYrhQ5gUy1g"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_w5rQsCsrEeabmZQ4OgAhFg",
+                          "name": "质量管理部",
+                          "guid": "_w5rQsCsrEeabmZQ4OgAhFg",
+                          "presentationName": "质量管理部",
+                          "briefDescription": "简短描述",
+                          "roles": "_k5Qy0CsrEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_xSq_gCsrEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "presentation": [
+                          {
+                            "$": {
+                              "xmi:id": "-v9hi7r9QtfWC9_rlxXNXrQ",
+                              "href": "uma://-v9hi7r9QtfWC9_rlxXNXrQ#-v9hi7r9QtfWC9_rlxXNXrQ"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSetGrouping",
+                          "xmi:id": "_xtmA8CsrEeabmZQ4OgAhFg",
+                          "name": "按照职能部门分类",
+                          "guid": "_xtmA8CsrEeabmZQ4OgAhFg",
+                          "presentationName": "按照部门分类",
+                          "briefDescription": "具有临时性",
+                          "roleSets": "_w5rQsCsrEeabmZQ4OgAhFg _db9a4ClWEeabmZQ4OgAhFg _5QiN8CsrEeabmZQ4OgAhFg _7NuTYCsrEeabmZQ4OgAhFg _IGE94CuEEeabmZQ4OgAhFg _tlygoCuEEeabmZQ4OgAhFg _20kkYCuEEeabmZQ4OgAhFg _ivv8gC-oEeaodbM2zcfHJw _7s-PEC-oEeaodbM2zcfHJw"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_zkLIECsrEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_5QiN8CsrEeabmZQ4OgAhFg",
+                          "name": "工程管理部",
+                          "guid": "_5QiN8CsrEeabmZQ4OgAhFg",
+                          "presentationName": "工程管理部",
+                          "briefDescription": "简短描述",
+                          "roles": "_e4nfACsrEeabmZQ4OgAhFg _Z7by1y7aEeaodbM2zcfHJw"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_5vCH0CsrEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "presentation": [
+                          {
+                            "$": {
+                              "xmi:id": "-8ujdeLnc9DRVSWZP4UI33g",
+                              "href": "uma://-8ujdeLnc9DRVSWZP4UI33g#-8ujdeLnc9DRVSWZP4UI33g"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_7NuTYCsrEeabmZQ4OgAhFg",
+                          "name": "项目管理部",
+                          "guid": "_7NuTYCsrEeabmZQ4OgAhFg",
+                          "presentationName": "项目管理部",
+                          "briefDescription": "简短描述",
+                          "roles": "_BRRpQCuEEeabmZQ4OgAhFg _jFERUCsrEeabmZQ4OgAhFg _53KysCuEEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_7mk4QCsrEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "presentation": [
+                          {
+                            "$": {
+                              "xmi:id": "--pFUm379GLazViLwaVxEWQ",
+                              "href": "uma://--pFUm379GLazViLwaVxEWQ#--pFUm379GLazViLwaVxEWQ"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_wQjTMCuDEeabmZQ4OgAhFg",
+                          "name": "07 产品设计与实现过程方法内容",
+                          "guid": "_wQjTMCuDEeabmZQ4OgAhFg",
+                          "presentationName": "07 产品设计与实现过程方法内容",
+                          "briefDescription": "如果中心还未立项则由业务师组织成立项目需求工作组，工作组包含涉及产品人员、项目管理人员、测试架构师、测试经理，若涉及与产品运维有关的非功能需求、运维需求则需要维护工程师参与。",
+                          "roles": "_8RQsACuDEeabmZQ4OgAhFg _BRRpQCuEEeabmZQ4OgAhFg _nqJmECsrEeabmZQ4OgAhFg _Z7by1y7aEeaodbM2zcfHJw _mXSQACsrEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_xgl-wCuDEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "presentation": [
+                          {
+                            "$": {
+                              "xmi:id": "-DWMZtcQFR7mj9Pf3p-5glw",
+                              "href": "uma://-DWMZtcQFR7mj9Pf3p-5glw#-DWMZtcQFR7mj9Pf3p-5glw"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSetGrouping",
+                          "xmi:id": "_zhITICuDEeabmZQ4OgAhFg",
+                          "name": "按照阶段分组（有临时性）",
+                          "guid": "_zhITICuDEeabmZQ4OgAhFg",
+                          "presentationName": "按照阶段分组",
+                          "roleSets": "_wQjTMCuDEeabmZQ4OgAhFg _7J-MgC-kEeaodbM2zcfHJw _-EHCYC-kEeaodbM2zcfHJw _-bzwsC-kEeaodbM2zcfHJw _-t6NUC-kEeaodbM2zcfHJw __A1wYC-kEeaodbM2zcfHJw _R2NT4C-lEeaodbM2zcfHJw _7VLPkC-nEeaodbM2zcfHJw _7sEFkC-nEeaodbM2zcfHJw"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_0z_pMCuDEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_IGE94CuEEeabmZQ4OgAhFg",
+                          "name": "维护部",
+                          "guid": "_IGE94CuEEeabmZQ4OgAhFg",
+                          "presentationName": "维护部",
+                          "briefDescription": "简短描述",
+                          "roles": "_pFWYwCsrEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_IzdBQCuEEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "presentation": [
+                          {
+                            "$": {
+                              "xmi:id": "-dFW_IoupRtcDDCKoSXgitQ",
+                              "href": "uma://-dFW_IoupRtcDDCKoSXgitQ#-dFW_IoupRtcDDCKoSXgitQ"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_tlygoCuEEeabmZQ4OgAhFg",
+                          "name": "测试部",
+                          "guid": "_tlygoCuEEeabmZQ4OgAhFg",
+                          "presentationName": "测试部",
+                          "briefDescription": "简短描述",
+                          "roles": "_mXSQACsrEeabmZQ4OgAhFg _nqJmECsrEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_ubDUsCuEEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "presentation": [
+                          {
+                            "$": {
+                              "xmi:id": "-j2-JTON8nVzwhY6l7knkLg",
+                              "href": "uma://-j2-JTON8nVzwhY6l7knkLg#-j2-JTON8nVzwhY6l7knkLg"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_20kkYCuEEeabmZQ4OgAhFg",
+                          "name": "主管总经理室",
+                          "guid": "_20kkYCuEEeabmZQ4OgAhFg",
+                          "presentationName": "主管总经理室",
+                          "briefDescription": "简短描述",
+                          "roles": "_jFERUCsrEeabmZQ4OgAhFg _53KysCuEEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_4kJroCuEEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "presentation": [
+                          {
+                            "$": {
+                              "xmi:id": "-z2lWw-PWoodeLMyE08NrnA",
+                              "href": "uma://-z2lWw-PWoodeLMyE08NrnA#-z2lWw-PWoodeLMyE08NrnA"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_7J-MgC-kEeaodbM2zcfHJw",
+                          "name": "04 产品管理过程",
+                          "guid": "_7J-MgC-kEeaodbM2zcfHJw",
+                          "presentationName": "04 产品管理过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_7i6Q8C-kEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_-EHCYC-kEeaodbM2zcfHJw",
+                          "name": "01 IT环境管理过程",
+                          "guid": "_-EHCYC-kEeaodbM2zcfHJw",
+                          "presentationName": "01 IT环境管理过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_PkDrEC-lEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_-bzwsC-kEeaodbM2zcfHJw",
+                          "name": "02 产品功能测试过程",
+                          "guid": "_-bzwsC-kEeaodbM2zcfHJw",
+                          "presentationName": "02 产品功能测试过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_RR2CkC-lEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_-t6NUC-kEeaodbM2zcfHJw",
+                          "name": "05 产品维护过程",
+                          "guid": "_-t6NUC-kEeaodbM2zcfHJw",
+                          "presentationName": "05 产品维护过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_xz9_EC-nEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "__A1wYC-kEeaodbM2zcfHJw",
+                          "name": "06 产品缺陷分析管理过程",
+                          "guid": "__A1wYC-kEeaodbM2zcfHJw",
+                          "presentationName": "06 产品缺陷分析管理过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_zTJS0C-nEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_R2NT4C-lEeaodbM2zcfHJw",
+                          "name": "03 产品推广过程",
+                          "guid": "_R2NT4C-lEeaodbM2zcfHJw",
+                          "presentationName": "03 产品推广过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_az2H0C-mEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_7VLPkC-nEeaodbM2zcfHJw",
+                          "name": "08 人力资源管理过程",
+                          "guid": "_7VLPkC-nEeaodbM2zcfHJw",
+                          "presentationName": "08 人力资源管理过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_-uIvcC-nEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_7sEFkC-nEeaodbM2zcfHJw",
+                          "name": "09 供应商与合同管理过程",
+                          "guid": "_7sEFkC-nEeaodbM2zcfHJw",
+                          "presentationName": "09 供应商与合同管理过程"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_9aNpcC-nEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_ivv8gC-oEeaodbM2zcfHJw",
+                          "name": "业务用户",
+                          "guid": "_ivv8gC-oEeaodbM2zcfHJw",
+                          "presentationName": "业务用户",
+                          "roles": "_fFVgQC-oEeaodbM2zcfHJw"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_j65hAC-oEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:RoleSet",
+                          "xmi:id": "_7s-PEC-oEeaodbM2zcfHJw",
+                          "name": "开发部",
+                          "guid": "_7s-PEC-oEeaodbM2zcfHJw",
+                          "presentationName": "开发部",
+                          "roles": "_Z7by0S7aEeaodbM2zcfHJw _hpkjsCsrEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_80f30C-oEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_TKMJxilOEeabmZQ4OgAhFg",
+                      "name": "WP Types",
+                      "guid": "_TKMJxilOEeabmZQ4OgAhFg"
+                    },
+                    "contentElements": [
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:WorkProductType",
+                          "xmi:id": "_iFubUClWEeabmZQ4OgAhFg",
+                          "name": "输出类型",
+                          "guid": "_iFubUClWEeabmZQ4OgAhFg",
+                          "presentationName": "输出类型",
+                          "supportingMaterials": "_TBvJoClUEeabmZQ4OgAhFg",
+                          "workProducts": "_WWe_QClREeabmZQ4OgAhFg _0wd7cCuAEeabmZQ4OgAhFg _2mS0oCuAEeabmZQ4OgAhFg _4I7sECuAEeabmZQ4OgAhFg _5n_rECuAEeabmZQ4OgAhFg _6z3oUCuAEeabmZQ4OgAhFg _8nxO4CuAEeabmZQ4OgAhFg _-DHLgCuAEeabmZQ4OgAhFg __t7ukCuAEeabmZQ4OgAhFg _A9huMCuBEeabmZQ4OgAhFg _w7lUkCuAEeabmZQ4OgAhFg _cUaqIC7fEeaodbM2zcfHJw"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_jzmSYClWEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          },
+                          {
+                            "$": {
+                              "xmi:id": "_ZFkDIC7MEeaodbM2zcfHJw",
+                              "name": "CategoryElementsSortType",
+                              "value": "MethodType"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:WorkProductType",
+                          "xmi:id": "_hJV-oC8UEeaodbM2zcfHJw",
+                          "name": "结果类型",
+                          "guid": "_hJV-oC8UEeaodbM2zcfHJw",
+                          "presentationName": "结果类型"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_iMGcIC8UEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:WorkProductType",
+                          "xmi:id": "_mYLbAC8UEeaodbM2zcfHJw",
+                          "name": "输入类型",
+                          "guid": "_mYLbAC8UEeaodbM2zcfHJw",
+                          "presentationName": "输入类型"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_nL-PcC8UEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_TKMJxylOEeabmZQ4OgAhFg",
+                      "name": "Tools",
+                      "guid": "_TKMJxylOEeabmZQ4OgAhFg"
+                    },
+                    "contentElements": [
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Tool",
+                          "xmi:id": "_EwRTIDB7EeaodbM2zcfHJw",
+                          "name": "new_tool",
+                          "guid": "_EwRTIDB7EeaodbM2zcfHJw",
+                          "presentationName": "New Tool"
+                        }
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Tool",
+                          "xmi:id": "_GfZucDB7EeaodbM2zcfHJw",
+                          "name": "new_tool_2",
+                          "guid": "_GfZucDB7EeaodbM2zcfHJw",
+                          "presentationName": "New Tool 2"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_TKMJyClOEeabmZQ4OgAhFg",
+                      "name": "StandardCategories",
+                      "guid": "_TKMJyClOEeabmZQ4OgAhFg"
+                    }
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_TKMJySlOEeabmZQ4OgAhFg",
+                      "name": "CustomCategories",
+                      "guid": "_TKMJySlOEeabmZQ4OgAhFg"
+                    },
+                    "childPackages": [
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                          "xmi:id": "_TKMJyilOEeabmZQ4OgAhFg",
+                          "name": "Hidden",
+                          "guid": "_TKMJyilOEeabmZQ4OgAhFg"
+                        },
+                        "contentElements": [
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:CustomCategory",
+                              "xmi:id": "_TKMJyylOEeabmZQ4OgAhFg",
+                              "name": "定制类别",
+                              "guid": "_TKMJyylOEeabmZQ4OgAhFg",
+                              "categorizedElements": "_RbfIEClVEeabmZQ4OgAhFg _Kynj8C62EeaodbM2zcfHJw _6J6KsDB1EeaodbM2zcfHJw _eRK6YDIDEeaodbM2zcfHJw _v_Rx0FfJEeatdI28KsQmww"
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "contentElements": [
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:CustomCategory",
+                          "xmi:id": "_RbfIEClVEeabmZQ4OgAhFg",
+                          "name": "规程总览",
+                          "guid": "_RbfIEClVEeabmZQ4OgAhFg",
+                          "presentationName": "规程总览",
+                          "categorizedElements": "_L_cXYCscEeabmZQ4OgAhFg _kVbNEClWEeabmZQ4OgAhFg _9XS1IC-jEeaodbM2zcfHJw _0Q3msC-kEeaodbM2zcfHJw _-EvJ8C-jEeaodbM2zcfHJw _82M6QC-jEeaodbM2zcfHJw _Potw4CssEeabmZQ4OgAhFg __rfsYC-jEeaodbM2zcfHJw _ANRjwC-kEeaodbM2zcfHJw"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_VM3vAClVEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          },
+                          {
+                            "$": {
+                              "xmi:id": "_IJ7aICvnEeaKzOMW0LqtbQ",
+                              "name": "include",
+                              "value": "DisciplineGrouping"
+                            }
+                          },
+                          {
+                            "$": {
+                              "xmi:id": "_JJHfkC-zEeaodbM2zcfHJw",
+                              "name": "query",
+                              "value": "<?xml version=\"1.0\" encoding=\"ASCII\"?> <Query xmi:version=\"2.0\" xmlns:xmi=\"http://www.omg.org/XMI\" xmlns=\"http://www.ibm.com/rmc/library/xmldef\"/> "
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:CustomCategory",
+                          "xmi:id": "_Kynj8C62EeaodbM2zcfHJw",
+                          "name": "全部流程一览",
+                          "guid": "_Kynj8C62EeaodbM2zcfHJw",
+                          "presentationName": "全部流程一览"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_NaXpUC62EeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "categorizedElements": [
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:DeliveryProcess",
+                              "href": "uma://_f_F-MC61EeaodbM2zcfHJw#_f_F-MS61EeaodbM2zcfHJw"
+                            }
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:DeliveryProcess",
+                              "href": "uma://_d4Jf0C61EeaodbM2zcfHJw#_d4Jf0S61EeaodbM2zcfHJw"
+                            }
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:DeliveryProcess",
+                              "href": "uma://_aiz7sC61EeaodbM2zcfHJw#_aiz7sS61EeaodbM2zcfHJw"
+                            }
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:DeliveryProcess",
+                              "href": "uma://_YZe3sC61EeaodbM2zcfHJw#_YZe3sS61EeaodbM2zcfHJw"
+                            }
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:DeliveryProcess",
+                              "href": "uma://_WU6-8C61EeaodbM2zcfHJw#_WU6-8S61EeaodbM2zcfHJw"
+                            }
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:DeliveryProcess",
+                              "href": "uma://_Uj0NsC61EeaodbM2zcfHJw#_Uj0NsS61EeaodbM2zcfHJw"
+                            }
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:DeliveryProcess",
+                              "href": "uma://_m_gcoCvmEeaKzOMW0LqtbQ#_m_gcoSvmEeaKzOMW0LqtbQ"
+                            }
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:DeliveryProcess",
+                              "href": "uma://_k0Hj0C-vEeaodbM2zcfHJw#_k0Hj9S-vEeaodbM2zcfHJw"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:CustomCategory",
+                          "xmi:id": "_6J6KsDB1EeaodbM2zcfHJw",
+                          "name": "工作产品定制类别",
+                          "guid": "_6J6KsDB1EeaodbM2zcfHJw",
+                          "presentationName": "工作产品定制类别",
+                          "categorizedElements": "_KyRCMC8EEeaodbM2zcfHJw _LIS8kC8EEeaodbM2zcfHJw _LeU28C8EEeaodbM2zcfHJw _1vPCIC-kEeaodbM2zcfHJw _W8XnkC8EEeaodbM2zcfHJw _XQHC8C8EEeaodbM2zcfHJw _ppdSgClWEeabmZQ4OgAhFg _XhXyEC8EEeaodbM2zcfHJw _LuuqcC8EEeaodbM2zcfHJw _hJV-oC8UEeaodbM2zcfHJw _iFubUClWEeabmZQ4OgAhFg _mYLbAC8UEeaodbM2zcfHJw"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_9H5l0DB1EeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:CustomCategory",
+                          "xmi:id": "_eRK6YDIDEeaodbM2zcfHJw",
+                          "name": "new_custom_category",
+                          "guid": "_eRK6YDIDEeaodbM2zcfHJw",
+                          "presentationName": "new_custom_category"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_gcka8DIDEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "categorizedElements": [
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Activity",
+                              "href": "uma://_GB9-8C7jEeaodbM2zcfHJw#_G8hisS7jEeaodbM2zcfHJw"
+                            }
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Phase",
+                              "href": "uma://_-Cr1aCyLEeaKzOMW0LqtbQ#_-CtDhSyLEeaKzOMW0LqtbQ"
+                            }
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Activity",
+                              "href": "uma://_S8ghACvpEeaKzOMW0LqtbQ#_gtkr0S8YEeaodbM2zcfHJw"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:CustomCategory",
+                          "xmi:id": "_v_Rx0FfJEeatdI28KsQmww",
+                          "name": "测试",
+                          "guid": "_v_Rx0FfJEeatdI28KsQmww",
+                          "presentationName": "测试"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_fR6AIFfKEeatdI28KsQmww",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "categorizedElements": [
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:DeliveryProcess",
+                              "href": "uma://_m_gcoCvmEeaKzOMW0LqtbQ#_m_gcoSvmEeaKzOMW0LqtbQ"
+                            }
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:DeliveryProcess",
+                              "href": "uma://_k0Hj0C-vEeaodbM2zcfHJw#_k0Hj9S-vEeaodbM2zcfHJw"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                  "xmi:id": "_TKMJzClOEeabmZQ4OgAhFg",
+                  "name": "CoreContent",
+                  "guid": "_TKMJzClOEeabmZQ4OgAhFg"
+                },
+                "childPackages": [
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_z-AIoClPEeabmZQ4OgAhFg",
+                      "name": "07 产品设计与实现过程方法内容",
+                      "guid": "_z-AIoClPEeabmZQ4OgAhFg",
+                      "presentationName": "产品和生命周期"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_0cWxMClSEeabmZQ4OgAhFg",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ],
+                    "childPackages": [
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                          "xmi:id": "_2cgycClPEeabmZQ4OgAhFg",
+                          "name": "3.1. 意向需求获取（任务）",
+                          "guid": "_2cgycClPEeabmZQ4OgAhFg",
+                          "presentationName": "意向需求获取（任务）"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_IlGIcClQEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "contentElements": [
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_29jNgClQEeabmZQ4OgAhFg",
+                              "name": "3.1.5.2. 初步分析业务需求",
+                              "guid": "_29jNgClQEeabmZQ4OgAhFg",
+                              "presentationName": "初步分析业务需求",
+                              "supportingMaterials": "_gPDXEC8IEeaodbM2zcfHJw",
+                              "performedBy": "_Z7by1y7aEeaodbM2zcfHJw _IyU80C7aEeaodbM2zcfHJw",
+                              "mandatoryInput": "_Z2zwsCooEeabmZQ4OgAhFg",
+                              "output": "_aEusYC8UEeaodbM2zcfHJw _zTnpoC8HEeaodbM2zcfHJw _3M0IwC8HEeaodbM2zcfHJw _nBH9QC8HEeaodbM2zcfHJw _x4WlgC8HEeaodbM2zcfHJw _paeaQC8HEeaodbM2zcfHJw _tUJagC8HEeaodbM2zcfHJw _wWULAC8HEeaodbM2zcfHJw _aUfosC7-EeaodbM2zcfHJw _1RgSoC8HEeaodbM2zcfHJw _uztIwC8HEeaodbM2zcfHJw"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_8yoxkClQEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ],
+                            "presentation": [
+                              {
+                                "$": {
+                                  "xmi:id": "-8sAFSvtEVTGy1XiRLduoQQ",
+                                  "href": "uma://-8sAFSvtEVTGy1XiRLduoQQ#-8sAFSvtEVTGy1XiRLduoQQ"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_9gJ-4ClQEeabmZQ4OgAhFg",
+                              "name": "3.1.5.1. 接收业务需求",
+                              "guid": "_9gJ-4ClQEeabmZQ4OgAhFg",
+                              "presentationName": "接收业务需求1",
+                              "performedBy": "_Z7by1y7aEeaodbM2zcfHJw",
+                              "mandatoryInput": "_Z2zwsCooEeabmZQ4OgAhFg",
+                              "output": "_aUfosC7-EeaodbM2zcfHJw _zTnpoC8HEeaodbM2zcfHJw _3M0IwC8HEeaodbM2zcfHJw _nBH9QC8HEeaodbM2zcfHJw _x4WlgC8HEeaodbM2zcfHJw _paeaQC8HEeaodbM2zcfHJw _tUJagC8HEeaodbM2zcfHJw _wWULAC8HEeaodbM2zcfHJw _1RgSoC8HEeaodbM2zcfHJw _uztIwC8HEeaodbM2zcfHJw",
+                              "additionallyPerformedBy": "_e4nfACsrEeabmZQ4OgAhFg"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_DH_KEClREeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ],
+                            "presentation": [
+                              {
+                                "$": {
+                                  "xmi:id": "-wvDKPs2nWLnmeg9Ljcx2wg",
+                                  "href": "uma://-wvDKPs2nWLnmeg9Ljcx2wg#-wvDKPs2nWLnmeg9Ljcx2wg"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_DztnoClREeabmZQ4OgAhFg",
+                              "name": "3.1.5.3. 与用户进行需求交流",
+                              "guid": "_DztnoClREeabmZQ4OgAhFg",
+                              "presentationName": "与用户进行需求交流",
+                              "performedBy": "_Z7by1y7aEeaodbM2zcfHJw",
+                              "output": "_aEusYC8UEeaodbM2zcfHJw _aUfosC7-EeaodbM2zcfHJw"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_GppS8ClREeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ],
+                            "presentation": [
+                              {
+                                "$": {
+                                  "xmi:id": "-QwsnRg2zqYslWcGJ9Jm0jQ",
+                                  "href": "uma://-QwsnRg2zqYslWcGJ9Jm0jQ#-QwsnRg2zqYslWcGJ9Jm0jQ"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Deliverable",
+                              "xmi:id": "_WWe_QClREeabmZQ4OgAhFg",
+                              "name": "需求获取阶段可交付件",
+                              "guid": "_WWe_QClREeabmZQ4OgAhFg",
+                              "presentationName": "需求获取阶段可交付件",
+                              "briefDescription": "需求获取阶段可交付件",
+                              "supportingMaterials": "_y4p9MCorEeabmZQ4OgAhFg",
+                              "deliveredWorkProducts": "_xaeAkCouEeabmZQ4OgAhFg _Z2zwsCooEeabmZQ4OgAhFg"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_fh3JsClREeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:SupportingMaterial",
+                              "xmi:id": "_TBvJoClUEeabmZQ4OgAhFg",
+                              "name": "需求管理表单模板",
+                              "guid": "_TBvJoClUEeabmZQ4OgAhFg",
+                              "presentationName": "需求管理表单模板"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_VKY4MClUEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_2aJVsColEeabmZQ4OgAhFg",
+                              "name": "3.1.5.4. 协助用户完善《需求意向书》",
+                              "guid": "_2aJVsColEeabmZQ4OgAhFg",
+                              "presentationName": "协助用户完善《用户需求说明书》",
+                              "performedBy": "_Z7by1y7aEeaodbM2zcfHJw",
+                              "mandatoryInput": "_Z2zwsCooEeabmZQ4OgAhFg",
+                              "output": "_3M0IwC8HEeaodbM2zcfHJw _nBH9QC8HEeaodbM2zcfHJw _aUfosC7-EeaodbM2zcfHJw",
+                              "additionallyPerformedBy": "_Z7by0S7aEeaodbM2zcfHJw"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_4kBMQColEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_5xfE8ColEeabmZQ4OgAhFg",
+                              "name": "3.1.5.5. 评审意向需求",
+                              "guid": "_5xfE8ColEeabmZQ4OgAhFg",
+                              "presentationName": "用户需求评审",
+                              "supportingMaterials": "_ayAsUC8YEeaodbM2zcfHJw",
+                              "performedBy": "_Z7by1y7aEeaodbM2zcfHJw",
+                              "mandatoryInput": "_aUfosC7-EeaodbM2zcfHJw",
+                              "output": "_WWe_QClREeabmZQ4OgAhFg"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_6v_UkColEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:SupportingMaterial",
+                              "xmi:id": "_tD14MComEeabmZQ4OgAhFg",
+                              "name": "需求管理支持文件",
+                              "guid": "_tD14MComEeabmZQ4OgAhFg",
+                              "presentationName": "需求管理支持文件"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_u6MV0ComEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Artifact",
+                              "xmi:id": "_Z2zwsCooEeabmZQ4OgAhFg",
+                              "name": "《需求意向书》",
+                              "guid": "_Z2zwsCooEeabmZQ4OgAhFg",
+                              "presentationName": "《需求意向书》"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_aS520CooEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              },
+                              {
+                                "$": {
+                                  "xmi:id": "_lQpXwC7_EeaodbM2zcfHJw",
+                                  "name": "Workproduct_states",
+                                  "value": "_kw_AQC7_EeaodbM2zcfHJw"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Artifact",
+                              "xmi:id": "_xaeAkCouEeabmZQ4OgAhFg",
+                              "name": "评审报告",
+                              "guid": "_xaeAkCouEeabmZQ4OgAhFg",
+                              "presentationName": "评审报告"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_yeykUCouEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Outcome",
+                              "xmi:id": "_aUfosC7-EeaodbM2zcfHJw",
+                              "name": "需求意向书更新",
+                              "guid": "_aUfosC7-EeaodbM2zcfHJw",
+                              "presentationName": "需求意向书更新"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_cDaBkC7-EeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Outcome",
+                              "xmi:id": "_nBH9QC8HEeaodbM2zcfHJw",
+                              "name": "分析用户要实现的业务功能",
+                              "guid": "_nBH9QC8HEeaodbM2zcfHJw",
+                              "presentationName": "分析用户要实现的业务功能"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_oy_jgC8HEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Outcome",
+                              "xmi:id": "_paeaQC8HEeaodbM2zcfHJw",
+                              "name": "涉及的产品分析",
+                              "guid": "_paeaQC8HEeaodbM2zcfHJw",
+                              "presentationName": "涉及的产品分析"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_s4ZSoC8HEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Outcome",
+                              "xmi:id": "_tUJagC8HEeaodbM2zcfHJw",
+                              "name": "实施阶段的划分",
+                              "guid": "_tUJagC8HEeaodbM2zcfHJw",
+                              "presentationName": "实施阶段的划分"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_pxWXQC8JEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Outcome",
+                              "xmi:id": "_uztIwC8HEeaodbM2zcfHJw",
+                              "name": "总体目标及阶段目标",
+                              "guid": "_uztIwC8HEeaodbM2zcfHJw",
+                              "presentationName": "总体目标及阶段目标"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_vwvYwC8HEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Outcome",
+                              "xmi:id": "_wWULAC8HEeaodbM2zcfHJw",
+                              "name": "完成时间要求",
+                              "guid": "_wWULAC8HEeaodbM2zcfHJw",
+                              "presentationName": "完成时间要求"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_xcyq4C8HEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Outcome",
+                              "xmi:id": "_x4WlgC8HEeaodbM2zcfHJw",
+                              "name": "框定需求范围",
+                              "guid": "_x4WlgC8HEeaodbM2zcfHJw",
+                              "presentationName": "框定需求范围"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_yvqoAC8HEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Outcome",
+                              "xmi:id": "_zTnpoC8HEeaodbM2zcfHJw",
+                              "name": "并区分不同的需求类别",
+                              "guid": "_zTnpoC8HEeaodbM2zcfHJw",
+                              "presentationName": "并区分不同的需求类别"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_pxcd4C8JEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Outcome",
+                              "xmi:id": "_1RgSoC8HEeaodbM2zcfHJw",
+                              "name": "与客户商定需求的优先级",
+                              "guid": "_1RgSoC8HEeaodbM2zcfHJw",
+                              "presentationName": "与客户商定需求的优先级"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_2wxtAC8HEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Outcome",
+                              "xmi:id": "_3M0IwC8HEeaodbM2zcfHJw",
+                              "name": "初步识别出功能需求和非功能需求",
+                              "guid": "_3M0IwC8HEeaodbM2zcfHJw",
+                              "presentationName": "初步识别出功能需求和非功能需求",
+                              "briefDescription": "，以及涉及的公共专题，与可能的现有产品需求相联系，分析客户需求与现有产品功能的差异"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_4b-DgC8HEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:SupportingMaterial",
+                              "xmi:id": "_gPDXEC8IEeaodbM2zcfHJw",
+                              "name": "需求获取指南",
+                              "guid": "_gPDXEC8IEeaodbM2zcfHJw",
+                              "presentationName": "需求获取指南"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_gqze8C8IEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Outcome",
+                              "xmi:id": "_aEusYC8UEeaodbM2zcfHJw",
+                              "name": "需求意向书的评审",
+                              "guid": "_aEusYC8UEeaodbM2zcfHJw",
+                              "presentationName": "需求意向书的评审"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_bw-LwC8UEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:SupportingMaterial",
+                              "xmi:id": "_ayAsUC8YEeaodbM2zcfHJw",
+                              "name": "《技术评审过程文件》",
+                              "guid": "_ayAsUC8YEeaodbM2zcfHJw",
+                              "presentationName": "《技术评审过程文件》"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_bL82UC8YEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:ToolMentor",
+                              "xmi:id": "_J8x0QDB7EeaodbM2zcfHJw",
+                              "name": "11",
+                              "guid": "_J8x0QDB7EeaodbM2zcfHJw",
+                              "presentationName": "111",
+                              "briefDescription": "11"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_LIpxgDB7EeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ],
+                            "presentation": [
+                              {
+                                "$": {
+                                  "xmi:id": "-qUZxDXPRx9oH-WoQ0370wg",
+                                  "href": "uma://-qUZxDXPRx9oH-WoQ0370wg#-qUZxDXPRx9oH-WoQ0370wg"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                          "xmi:id": "_RTs1QCoqEeabmZQ4OgAhFg",
+                          "name": "3.1. 意向需求获取（步骤，作废）",
+                          "guid": "_RTs1QCoqEeabmZQ4OgAhFg",
+                          "presentationName": "3.1. 意向需求获取"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_SIVXMCoqEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "contentElements": [
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_tguEoCoqEeabmZQ4OgAhFg",
+                              "name": "3.1. 意向需求获取",
+                              "guid": "_tguEoCoqEeabmZQ4OgAhFg",
+                              "presentationName": "3.1. 意向需求获取",
+                              "supportingMaterials": "_y4p9MCorEeabmZQ4OgAhFg"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_w1PwcCoqEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ],
+                            "presentation": [
+                              {
+                                "$": {
+                                  "xmi:id": "-hWIMq1RRgO_8ZpaUpySLkQ",
+                                  "href": "uma://-hWIMq1RRgO_8ZpaUpySLkQ#-hWIMq1RRgO_8ZpaUpySLkQ"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:SupportingMaterial",
+                              "xmi:id": "_y4p9MCorEeabmZQ4OgAhFg",
+                              "name": "《技术评审过程文件》",
+                              "guid": "_y4p9MCorEeabmZQ4OgAhFg",
+                              "presentationName": "《技术评审过程文件》"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_zRSfoCorEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                          "xmi:id": "_Q1-DoCsrEeabmZQ4OgAhFg",
+                          "name": "3.2. 技术框架方案制定",
+                          "guid": "_Q1-DoCsrEeabmZQ4OgAhFg",
+                          "presentationName": "3.2. 技术框架方案制定"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_XwUmoCsrEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "contentElements": [
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Artifact",
+                              "xmi:id": "_ErYgoCssEeabmZQ4OgAhFg",
+                              "name": "输入03《需求意向书》",
+                              "guid": "_ErYgoCssEeabmZQ4OgAhFg",
+                              "presentationName": "《需求意向书》",
+                              "briefDescription": "《需求意向书》 《非功能需求说明书》 《中国银行股份有限公司应用系统安全开发管理指引》 "
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_HwzZcCssEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Artifact",
+                              "xmi:id": "_IIm1cCssEeabmZQ4OgAhFg",
+                              "name": "输入01《非功能需求说明书》",
+                              "guid": "_IIm1cCssEeabmZQ4OgAhFg",
+                              "presentationName": "《非功能需求说明书》"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_I5HFUCssEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Artifact",
+                              "xmi:id": "_KIjT8CssEeabmZQ4OgAhFg",
+                              "name": "输入04《中国银行股份有限公司应用系统安全开发管理指引》",
+                              "guid": "_KIjT8CssEeabmZQ4OgAhFg",
+                              "presentationName": "《中国银行股份有限公司应用系统安全开发管理指引》"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_K7lTYCssEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Artifact",
+                              "xmi:id": "_LVBuICssEeabmZQ4OgAhFg",
+                              "name": "输入02识别出的公共专题",
+                              "guid": "_LVBuICssEeabmZQ4OgAhFg",
+                              "presentationName": "识别出的公共专题"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_MaWXcCssEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_S26LMCssEeabmZQ4OgAhFg",
+                              "name": "3.2.5.1.1. 成立项目需求工作组",
+                              "guid": "_S26LMCssEeabmZQ4OgAhFg",
+                              "presentationName": "3.2.5.1.1. 成立项目需求工作组",
+                              "performedBy": "_e4nfACsrEeabmZQ4OgAhFg",
+                              "mandatoryInput": "_IIm1cCssEeabmZQ4OgAhFg _ErYgoCssEeabmZQ4OgAhFg _KIjT8CssEeabmZQ4OgAhFg _LVBuICssEeabmZQ4OgAhFg",
+                              "additionallyPerformedBy": "_BRRpQCuEEeabmZQ4OgAhFg _k5Qy0CsrEeabmZQ4OgAhFg _pFWYwCsrEeabmZQ4OgAhFg _8RQsACuDEeabmZQ4OgAhFg"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_TV2xACssEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_VwSMECssEeabmZQ4OgAhFg",
+                              "name": "3.2.5.1.2. 明确需求问题",
+                              "guid": "_VwSMECssEeabmZQ4OgAhFg",
+                              "presentationName": "3.2.5.1.2. 明确需求问题",
+                              "mandatoryInput": "_ErYgoCssEeabmZQ4OgAhFg"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_WKxIoCssEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_Yiz-ECssEeabmZQ4OgAhFg",
+                              "name": "3.2.5.1.3. 编写技术框架方案",
+                              "guid": "_Yiz-ECssEeabmZQ4OgAhFg",
+                              "presentationName": "3.2.5.1.3. 编写技术框架方案",
+                              "supportingMaterials": "_cGo3QCuGEeabmZQ4OgAhFg",
+                              "performedBy": "_e4nfACsrEeabmZQ4OgAhFg _hpkjsCsrEeabmZQ4OgAhFg",
+                              "mandatoryInput": "_ErYgoCssEeabmZQ4OgAhFg _IIm1cCssEeabmZQ4OgAhFg",
+                              "output": "_0wd7cCuAEeabmZQ4OgAhFg",
+                              "additionallyPerformedBy": "_mXSQACsrEeabmZQ4OgAhFg"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_Y9l1kCssEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ],
+                            "presentation": [
+                              {
+                                "$": {
+                                  "xmi:id": "-d13Jp3e4W3SX6BwcICo6yA",
+                                  "href": "uma://-d13Jp3e4W3SX6BwcICo6yA#-d13Jp3e4W3SX6BwcICo6yA"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_nDJP0CuAEeabmZQ4OgAhFg",
+                              "name": "3.2.5.2. 编写技术框架方案费用预算",
+                              "guid": "_nDJP0CuAEeabmZQ4OgAhFg",
+                              "presentationName": "3.2.5.2. 编写技术框架方案费用预算"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_ndfCcCuAEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_oSJZkCuAEeabmZQ4OgAhFg",
+                              "name": "3.2.5.3. 审批技术框架方案",
+                              "guid": "_oSJZkCuAEeabmZQ4OgAhFg",
+                              "presentationName": "3.2.5.3. 审批技术框架方案"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_onRVACuAEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_o9ljQCuAEeabmZQ4OgAhFg",
+                              "name": "3.2.5.4. 提交技术框架方案",
+                              "guid": "_o9ljQCuAEeabmZQ4OgAhFg",
+                              "presentationName": "3.2.5.4. 提交技术框架方案"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_p7xp0CuAEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_q34FsCuAEeabmZQ4OgAhFg",
+                              "name": "3.2.5.5. 产品新增与重新规划",
+                              "guid": "_q34FsCuAEeabmZQ4OgAhFg",
+                              "presentationName": "3.2.5.5. 产品新增与重新规划",
+                              "supportingMaterials": "_cGo3QCuGEeabmZQ4OgAhFg",
+                              "performedBy": "_e4nfACsrEeabmZQ4OgAhFg",
+                              "mandatoryInput": "_8nxO4CuAEeabmZQ4OgAhFg",
+                              "output": "_6z3oUCuAEeabmZQ4OgAhFg"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_rM23MCuAEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_sSMHkCuAEeabmZQ4OgAhFg",
+                              "name": "3.2.5.6. 维护技术框架方案",
+                              "guid": "_sSMHkCuAEeabmZQ4OgAhFg",
+                              "presentationName": "3.2.5.6. 维护技术框架方案",
+                              "performedBy": "_e4nfACsrEeabmZQ4OgAhFg",
+                              "output": "_0wd7cCuAEeabmZQ4OgAhFg"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_sshTICuAEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Deliverable",
+                              "xmi:id": "_w7lUkCuAEeabmZQ4OgAhFg",
+                              "name": "技术框架方案及其他工作产品",
+                              "guid": "_w7lUkCuAEeabmZQ4OgAhFg",
+                              "presentationName": "技术框架方案及其他工作产品",
+                              "fulfills": "_5linYC7KEeaodbM2zcfHJw _Bo7usC7OEeaodbM2zcfHJw",
+                              "deliveredWorkProducts": "_0wd7cCuAEeabmZQ4OgAhFg _2mS0oCuAEeabmZQ4OgAhFg _4I7sECuAEeabmZQ4OgAhFg _5n_rECuAEeabmZQ4OgAhFg _6z3oUCuAEeabmZQ4OgAhFg _8nxO4CuAEeabmZQ4OgAhFg _-DHLgCuAEeabmZQ4OgAhFg __t7ukCuAEeabmZQ4OgAhFg _A9huMCuBEeabmZQ4OgAhFg"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_zlyRACuAEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ],
+                            "presentation": [
+                              {
+                                "$": {
+                                  "xmi:id": "-h-B5WHITqeIEHbSEIK609Q",
+                                  "href": "uma://-h-B5WHITqeIEHbSEIK609Q#-h-B5WHITqeIEHbSEIK609Q"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Artifact",
+                              "xmi:id": "_0wd7cCuAEeabmZQ4OgAhFg",
+                              "name": "1《技术框架方案》",
+                              "guid": "_0wd7cCuAEeabmZQ4OgAhFg",
+                              "presentationName": "《技术框架方案》"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_1_nPICuAEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Artifact",
+                              "xmi:id": "_2mS0oCuAEeabmZQ4OgAhFg",
+                              "name": "2《非功能需求分析识别表》",
+                              "guid": "_2mS0oCuAEeabmZQ4OgAhFg",
+                              "presentationName": "《非功能需求分析识别表》"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_3yBA4CuAEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Artifact",
+                              "xmi:id": "_4I7sECuAEeabmZQ4OgAhFg",
+                              "name": "3《公共专题分析识别表》",
+                              "guid": "_4I7sECuAEeabmZQ4OgAhFg",
+                              "presentationName": "《公共专题分析识别表》"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_5OQVYCuAEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Artifact",
+                              "xmi:id": "_5n_rECuAEeabmZQ4OgAhFg",
+                              "name": "4《产品系统安全性非功能需求识别表》",
+                              "guid": "_5n_rECuAEeabmZQ4OgAhFg",
+                              "presentationName": "《产品系统安全性非功能需求识别表》"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_6czzMCuAEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Artifact",
+                              "xmi:id": "_6z3oUCuAEeabmZQ4OgAhFg",
+                              "name": "5《产品规划书》",
+                              "guid": "_6z3oUCuAEeabmZQ4OgAhFg",
+                              "presentationName": "《产品规划书》"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_7tAPwCuAEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Artifact",
+                              "xmi:id": "_8nxO4CuAEeabmZQ4OgAhFg",
+                              "name": "6《XXXX产品模块分类细则》",
+                              "guid": "_8nxO4CuAEeabmZQ4OgAhFg",
+                              "presentationName": "《XXXX产品模块分类细则》"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_9AdbsCuAEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Artifact",
+                              "xmi:id": "_-DHLgCuAEeabmZQ4OgAhFg",
+                              "name": "7《硬件资源建议书》",
+                              "guid": "_-DHLgCuAEeabmZQ4OgAhFg",
+                              "presentationName": "《硬件资源建议书》"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_-cZ1QCuAEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Artifact",
+                              "xmi:id": "__t7ukCuAEeabmZQ4OgAhFg",
+                              "name": "8《工作量估算书》",
+                              "guid": "__t7ukCuAEeabmZQ4OgAhFg",
+                              "presentationName": "《工作量估算书》"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_AHOYUCuBEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Artifact",
+                              "xmi:id": "_A9huMCuBEeabmZQ4OgAhFg",
+                              "name": "9《功能点估算书（项目）》",
+                              "guid": "_A9huMCuBEeabmZQ4OgAhFg",
+                              "presentationName": "《功能点估算书（项目）》"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_BYcvoCuBEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:SupportingMaterial",
+                              "xmi:id": "_cGo3QCuGEeabmZQ4OgAhFg",
+                              "name": "《应用系统开发方式评估管理办法（试行）》",
+                              "guid": "_cGo3QCuGEeabmZQ4OgAhFg",
+                              "presentationName": "《应用系统开发方式评估管理办法（试行）》"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_cpAkgCuGEeabmZQ4OgAhFg",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Deliverable",
+                              "xmi:id": "_5linYC7KEeaodbM2zcfHJw",
+                              "name": "new_deliverable 槽",
+                              "guid": "_5linYC7KEeaodbM2zcfHJw",
+                              "presentationName": "New Deliverable 槽",
+                              "isAbstract": "true",
+                              "deliveredWorkProducts": "_5n_rECuAEeabmZQ4OgAhFg _2mS0oCuAEeabmZQ4OgAhFg"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_7LG3AC7KEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Deliverable",
+                              "xmi:id": "_Bo7usC7OEeaodbM2zcfHJw",
+                              "name": "new_deliverable 槽2",
+                              "guid": "_Bo7usC7OEeaodbM2zcfHJw",
+                              "presentationName": "New Deliverable 槽",
+                              "isAbstract": "true",
+                              "deliveredWorkProducts": "_5n_rECuAEeabmZQ4OgAhFg _2mS0oCuAEeabmZQ4OgAhFg"
+                            },
+                            "methodElementProperty": [
+                              {
+                                "$": {
+                                  "xmi:id": "_CLK5EC7OEeaodbM2zcfHJw",
+                                  "name": "me_edited",
+                                  "value": "true"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "$": {
+                              "xsi:type": "org.eclipse.epf.uma:Task",
+                              "xmi:id": "_rW32gC78EeacLPotuVs_vQ",
+                              "name": "new_task",
+                              "guid": "_rW32gC78EeacLPotuVs_vQ",
+                              "presentationName": "New Task"
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "contentElements": [
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_e4nfACsrEeabmZQ4OgAhFg",
+                          "name": "架构师",
+                          "guid": "_e4nfACsrEeabmZQ4OgAhFg",
+                          "presentationName": "架构师",
+                          "briefDescription": "工程管理部和总体部",
+                          "responsibleFor": "_0wd7cCuAEeabmZQ4OgAhFg _2mS0oCuAEeabmZQ4OgAhFg _4I7sECuAEeabmZQ4OgAhFg _5n_rECuAEeabmZQ4OgAhFg _6z3oUCuAEeabmZQ4OgAhFg _8nxO4CuAEeabmZQ4OgAhFg _-DHLgCuAEeabmZQ4OgAhFg __t7ukCuAEeabmZQ4OgAhFg _A9huMCuBEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_gGckECsrEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_hpkjsCsrEeabmZQ4OgAhFg",
+                          "name": "软件工程师？未定义完整",
+                          "guid": "_hpkjsCsrEeabmZQ4OgAhFg",
+                          "presentationName": "软件工程师",
+                          "responsibleFor": "_aUfosC7-EeaodbM2zcfHJw"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_iNuZoCsrEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_jFERUCsrEeabmZQ4OgAhFg",
+                          "name": "项目经理或牵头产品负责人(定义不清)",
+                          "guid": "_jFERUCsrEeabmZQ4OgAhFg",
+                          "presentationName": "项目经理或牵头产品负责人"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_joxbUCsrEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_k5Qy0CsrEeabmZQ4OgAhFg",
+                          "name": "测试架构师 质量管理部",
+                          "guid": "_k5Qy0CsrEeabmZQ4OgAhFg",
+                          "presentationName": "测试架构师",
+                          "responsibleFor": "_5n_rECuAEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_lcXf4CsrEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_mXSQACsrEeabmZQ4OgAhFg",
+                          "name": "测试经理 测试部",
+                          "guid": "_mXSQACsrEeabmZQ4OgAhFg",
+                          "presentationName": "测试经理",
+                          "responsibleFor": "_0wd7cCuAEeabmZQ4OgAhFg _2mS0oCuAEeabmZQ4OgAhFg __t7ukCuAEeabmZQ4OgAhFg _w7lUkCuAEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_m3bIoCsrEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_nqJmECsrEeabmZQ4OgAhFg",
+                          "name": "测试工程师 测试部？",
+                          "guid": "_nqJmECsrEeabmZQ4OgAhFg",
+                          "presentationName": "测试工程师",
+                          "briefDescription": "被软件工程师替代",
+                          "responsibleFor": "_5n_rECuAEeabmZQ4OgAhFg _A9huMCuBEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_oLn7cCsrEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_pFWYwCsrEeabmZQ4OgAhFg",
+                          "name": "维护工程师 维护部",
+                          "guid": "_pFWYwCsrEeabmZQ4OgAhFg",
+                          "presentationName": "维护工程师"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_ppzJoCsrEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_8RQsACuDEeabmZQ4OgAhFg",
+                          "name": "产品人员",
+                          "guid": "_8RQsACuDEeabmZQ4OgAhFg",
+                          "presentationName": "产品人员",
+                          "responsibleFor": "_aUfosC7-EeaodbM2zcfHJw"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_9UgRsCuDEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_BRRpQCuEEeabmZQ4OgAhFg",
+                          "name": "项目管理人员",
+                          "guid": "_BRRpQCuEEeabmZQ4OgAhFg",
+                          "presentationName": "项目管理人员"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_Cgt34CuEEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_53KysCuEEeabmZQ4OgAhFg",
+                          "name": "主管总经理室成员",
+                          "guid": "_53KysCuEEeabmZQ4OgAhFg",
+                          "presentationName": "主管总经理室成员"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_79XDICuEEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Artifact",
+                          "xmi:id": "_tah2YCuFEeabmZQ4OgAhFg",
+                          "name": "产品设计与实现过程_意向说明书",
+                          "guid": "_tah2YCuFEeabmZQ4OgAhFg",
+                          "presentationName": "意向说明书"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_78NXICuFEeabmZQ4OgAhFg",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_IyU80C7aEeaodbM2zcfHJw",
+                          "name": "总体部需求接收人员",
+                          "guid": "_IyU80C7aEeaodbM2zcfHJw",
+                          "presentationName": "总体部需求接收人员",
+                          "responsibleFor": "_Z2zwsCooEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_I0I6sC7aEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_Ww-B8C7aEeaodbM2zcfHJw",
+                          "name": "总体部需求接收人员1",
+                          "guid": "_Ww-B8C7aEeaodbM2zcfHJw",
+                          "presentationName": "总体部需求接收人员",
+                          "responsibleFor": "_Z2zwsCooEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_XnI08C7aEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_Z7by0C7aEeaodbM2zcfHJw",
+                          "name": "需求接收人员_总体部 分中心工程管理部",
+                          "guid": "_Z7by0C7aEeaodbM2zcfHJw",
+                          "presentationName": "需求接收人员"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_aV2d8C7aEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_Z7by0S7aEeaodbM2zcfHJw",
+                          "name": "需求分析人员 开发部",
+                          "guid": "_Z7by0S7aEeaodbM2zcfHJw",
+                          "presentationName": "需求分析人员"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_aV2d8S7aEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_Z7by0y7aEeaodbM2zcfHJw",
+                          "name": "信科部需求发送人员",
+                          "guid": "_Z7by0y7aEeaodbM2zcfHJw",
+                          "presentationName": "信科部需求发送人员"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_aV2d8y7aEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_Z7by1C7aEeaodbM2zcfHJw",
+                          "name": "需求评审小组",
+                          "guid": "_Z7by1C7aEeaodbM2zcfHJw",
+                          "presentationName": "需求评审小组"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_aV2d9C7aEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_Z7by1S7aEeaodbM2zcfHJw",
+                          "name": "需求评审组长",
+                          "guid": "_Z7by1S7aEeaodbM2zcfHJw",
+                          "presentationName": "需求评审组长"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_aV2d9S7aEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_Z7by1i7aEeaodbM2zcfHJw",
+                          "name": "需求提出人员（定义不清）",
+                          "guid": "_Z7by1i7aEeaodbM2zcfHJw",
+                          "presentationName": "需求提出人员"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_aV2d9i7aEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_Z7by1y7aEeaodbM2zcfHJw",
+                          "name": "业务师",
+                          "guid": "_Z7by1y7aEeaodbM2zcfHJw",
+                          "presentationName": "业务师",
+                          "variabilityType": "extendsReplaces",
+                          "variabilityBasedOnElement": "_e4nfACsrEeabmZQ4OgAhFg",
+                          "responsibleFor": "_Z2zwsCooEeabmZQ4OgAhFg _xaeAkCouEeabmZQ4OgAhFg _WWe_QClREeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_aV2d9y7aEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Deliverable",
+                          "xmi:id": "_cUaqIC7fEeaodbM2zcfHJw",
+                          "name": "技术框架方案验证",
+                          "guid": "_cUaqIC7fEeaodbM2zcfHJw",
+                          "presentationName": "技术框架方案验证",
+                          "deliveredWorkProducts": "_0wd7cCuAEeabmZQ4OgAhFg _2mS0oCuAEeabmZQ4OgAhFg _4I7sECuAEeabmZQ4OgAhFg _5n_rECuAEeabmZQ4OgAhFg _6z3oUCuAEeabmZQ4OgAhFg _8nxO4CuAEeabmZQ4OgAhFg _-DHLgCuAEeabmZQ4OgAhFg __t7ukCuAEeabmZQ4OgAhFg _A9huMCuBEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_fKeRQC7fEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Artifact",
+                          "xmi:id": "_SsNfUC8XEeaodbM2zcfHJw",
+                          "name": "评审报告",
+                          "guid": "_SsNfUC8XEeaodbM2zcfHJw",
+                          "presentationName": "评审报告"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_SsyHEC8XEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_fFVgQC-oEeaodbM2zcfHJw",
+                          "name": "用户",
+                          "guid": "_fFVgQC-oEeaodbM2zcfHJw",
+                          "presentationName": "用户",
+                          "responsibleFor": "_aUfosC7-EeaodbM2zcfHJw"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_gDa5IC-oEeaodbM2zcfHJw",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_UT4RcCyKEeaKzOMW0LqtbQ",
+                      "name": "01 IT环境管理过程",
+                      "guid": "_UT4RcCyKEeaKzOMW0LqtbQ",
+                      "presentationName": "IT环境管理过程"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_etvBMCyKEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ],
+                    "contentElements": [
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_yoAUEFh4EeatdI28KsQmww",
+                          "name": "总体部与工程管理部",
+                          "guid": "_yoAUEFh4EeatdI28KsQmww",
+                          "presentationName": "总体部/工程管理部",
+                          "responsibleFor": "_9WeMcFh5EeatdI28KsQmww _2YmbYFh5EeatdI28KsQmww"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_5CBKIFh4EeatdI28KsQmww",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "presentation": [
+                          {
+                            "$": {
+                              "xmi:id": "-SQaR1vz8xREzb7yWj_VBZQ",
+                              "href": "uma://-SQaR1vz8xREzb7yWj_VBZQ#-SQaR1vz8xREzb7yWj_VBZQ"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Deliverable",
+                          "xmi:id": "_2YmbYFh5EeatdI28KsQmww",
+                          "name": "意向需求获取输出",
+                          "guid": "_2YmbYFh5EeatdI28KsQmww",
+                          "presentationName": "意向需求获取输出",
+                          "deliveredWorkProducts": "_9WeMcFh5EeatdI28KsQmww"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_7waNkFh5EeatdI28KsQmww",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Artifact",
+                          "xmi:id": "_9WeMcFh5EeatdI28KsQmww",
+                          "name": "《需求意向书》。",
+                          "guid": "_9WeMcFh5EeatdI28KsQmww",
+                          "presentationName": "《需求意向书》。"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_-IwlAFh5EeatdI28KsQmww",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Task",
+                          "xmi:id": "_W_JPwFh6EeatdI28KsQmww",
+                          "name": " 接收业务需求",
+                          "guid": "_W_JPwFh6EeatdI28KsQmww",
+                          "presentationName": " 接收业务需求",
+                          "performedBy": "_yoAUEFh4EeatdI28KsQmww",
+                          "mandatoryInput": "_9WeMcFh5EeatdI28KsQmww",
+                          "output": "_9WeMcFh5EeatdI28KsQmww _2YmbYFh5EeatdI28KsQmww"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_Z6AeYFh6EeatdI28KsQmww",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "presentation": [
+                          {
+                            "$": {
+                              "xmi:id": "-5Rqvwu1i4hZ1LRuCRfN5zw",
+                              "href": "uma://-5Rqvwu1i4hZ1LRuCRfN5zw#-5Rqvwu1i4hZ1LRuCRfN5zw"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_UraAoCyKEeaKzOMW0LqtbQ",
+                      "name": "09 供应商与合同管理过程",
+                      "guid": "_UraAoCyKEeaKzOMW0LqtbQ",
+                      "presentationName": "供应商与合同管理过程"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_Bp6QMCyLEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_U8eigCyKEeaKzOMW0LqtbQ",
+                      "name": "10 信息安全风险管理过程",
+                      "guid": "_U8eigCyKEeaKzOMW0LqtbQ",
+                      "presentationName": "信息安全风险管理过程"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_DR2eYCyLEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_VSqN4CyKEeaKzOMW0LqtbQ",
+                      "name": "11 内部IT服务管理",
+                      "guid": "_VSqN4CyKEeaKzOMW0LqtbQ",
+                      "presentationName": "内部IT服务管理"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_EgmwgCyLEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_WOSvsCyKEeaKzOMW0LqtbQ",
+                      "name": "17 技术评审过程",
+                      "guid": "_WOSvsCyKEeaKzOMW0LqtbQ",
+                      "presentationName": "技术评审过程"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_M9lj4CyLEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_Xp0SgCyKEeaKzOMW0LqtbQ",
+                      "name": "12 内部审核过程",
+                      "guid": "_Xp0SgCyKEeaKzOMW0LqtbQ",
+                      "presentationName": "内部审核过程"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_FqVYsCyLEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_X6gZ4CyKEeaKzOMW0LqtbQ",
+                      "name": "13 决策分析过程",
+                      "guid": "_X6gZ4CyKEeaKzOMW0LqtbQ",
+                      "presentationName": "决策分析过程"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_HI5BYCyLEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_YXf34CyKEeaKzOMW0LqtbQ",
+                      "name": "14 外包管理过程",
+                      "guid": "_YXf34CyKEeaKzOMW0LqtbQ",
+                      "presentationName": "外包管理过程"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_I__F4CyLEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_YnSnYCyKEeaKzOMW0LqtbQ",
+                      "name": "15 客户服务管理过程",
+                      "guid": "_YnSnYCyKEeaKzOMW0LqtbQ",
+                      "presentationName": "客户服务管理过程"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_KMmC8CyLEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_ZIq2ICyKEeaKzOMW0LqtbQ",
+                      "name": "16 度量与分析过程",
+                      "guid": "_ZIq2ICyKEeaKzOMW0LqtbQ",
+                      "presentationName": "度量与分析过程"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_LokRsCyLEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_ZqlQYCyKEeaKzOMW0LqtbQ",
+                      "name": "02 产品功能测试过程",
+                      "guid": "_ZqlQYCyKEeaKzOMW0LqtbQ",
+                      "presentationName": "产品功能测试过程"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_hjvlACyKEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_aCCuICyKEeaKzOMW0LqtbQ",
+                      "name": "03 产品推广过程",
+                      "guid": "_aCCuICyKEeaKzOMW0LqtbQ",
+                      "presentationName": "产品推广过程"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_keL84CyKEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_aoSOwCyKEeaKzOMW0LqtbQ",
+                      "name": "04 产品管理过程",
+                      "guid": "_aoSOwCyKEeaKzOMW0LqtbQ",
+                      "presentationName": "产品管理过程"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_nDJM8CyKEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_a4FlUCyKEeaKzOMW0LqtbQ",
+                      "name": "05 产品维护过程",
+                      "guid": "_a4FlUCyKEeaKzOMW0LqtbQ",
+                      "presentationName": "产品维护过程"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_pYc3cCyKEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_bOaaoCyKEeaKzOMW0LqtbQ",
+                      "name": "06 产品缺陷分析管理过程",
+                      "guid": "_bOaaoCyKEeaKzOMW0LqtbQ",
+                      "presentationName": "产品缺陷分析管理过程"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_ruilECyKEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_bms-0CyKEeaKzOMW0LqtbQ",
+                      "name": "08 人力资源管理过程",
+                      "guid": "_bms-0CyKEeaKzOMW0LqtbQ",
+                      "presentationName": "人力资源管理过程"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_ujKo0CyKEeaKzOMW0LqtbQ",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_t65K4C7aEeaodbM2zcfHJw",
+                      "name": "项目过程资产（案例）",
+                      "guid": "_t65K4C7aEeaodbM2zcfHJw",
+                      "presentationName": "项目过程资产（案例）",
+                      "briefDescription": "项目过程资产（案例）"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_xrOB4C7aEeaodbM2zcfHJw",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+                      "xmi:id": "_b43eb8d877c44951724502",
+                      "name": "需求意向调研",
+                      "guid": "_b43eb8d877c44951724502",
+                      "presentationName": "测试内容包"
+                    },
+                    "methodElementProperty": [
+                      {
+                        "$": {
+                          "xmi:id": "_pa4M0CgKEeaKzYzycMmkRw",
+                          "name": "me_edited",
+                          "value": "true"
+                        }
+                      }
+                    ],
+                    "contentElements": [
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_77a04d2b2937d8112ae072",
+                          "name": "\"总体部&工程管理部\"",
+                          "guid": "_77a04d2b2937d8112ae072",
+                          "presentationName": "\"总体部/工程管理部\"",
+                          "briefDescription": "1"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_TVJKIDbDEeatdI28KsQmww",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Role",
+                          "xmi:id": "_10182adcf9e1c803b9ff1f",
+                          "name": "\"业务师\"",
+                          "guid": "_10182adcf9e1c803b9ff1f",
+                          "presentationName": "\"业务师\"",
+                          "briefDescription": "1"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_TVJKIDbDEeatdI28KsQmww",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Artifact",
+                          "xmi:id": "_2928fd402f30c2beab2661",
+                          "name": "\"《需求意向书》。\"",
+                          "guid": "_2928fd402f30c2beab2661",
+                          "presentationName": "\"《需求意向书》。\"",
+                          "briefDescription": "11"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_S0opcDaUEeatdI28KsQmww",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "xsi:type": "org.eclipse.epf.uma:Task",
+                          "xmi:id": "_3479bcfbaa84a9bf0ab472",
+                          "name": "接收业务需求",
+                          "guid": "_3479bcfbaa84a9bf0ab472",
+                          "presentationName": "接收业务需求\"",
+                          "briefDescription": "22",
+                          "performedBy": "_yoAUEFh4EeatdI28KsQmww",
+                          "mandatoryInput": "_Z2zwsCooEeabmZQ4OgAhFg",
+                          "output": "_Z2zwsCooEeabmZQ4OgAhFg"
+                        },
+                        "methodElementProperty": [
+                          {
+                            "$": {
+                              "xmi:id": "_cPT8sDkcEeaWnYMysYl40g",
+                              "name": "me_edited",
+                              "value": "true"
+                            }
+                          }
+                        ],
+                        "presentation": [
+                          {
+                            "$": {
+                              "xmi:id": "-siD5jizEm8MrSzn8JlQ_aQ",
+                              "href": "uma://-siD5jizEm8MrSzn8JlQ_aQ#-siD5jizEm8MrSzn8JlQ_aQ"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+                  "xmi:id": "_TKMJzSlOEeabmZQ4OgAhFg",
+                  "name": "CapabilityPatterns",
+                  "guid": "_TKMJzSlOEeabmZQ4OgAhFg"
+                },
+                "childPackages": [
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_y5vmgCokEeauZ74kdeCjYw",
+                      "href": "uma://_y5vmgCokEeauZ74kdeCjYw#_y5vmgCokEeauZ74kdeCjYw"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+              "xmi:id": "_TKMJzilOEeabmZQ4OgAhFg",
+              "name": "DeliveryProcesses",
+              "guid": "_TKMJzilOEeabmZQ4OgAhFg"
+            },
+            "childPackages": [
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+                  "xmi:id": "_2W5SoCvAEeaKzOMW0LqtbQ",
+                  "name": "07 产品设计与实现过程方法内容（面向过程）",
+                  "guid": "_2W5SoCvAEeaKzOMW0LqtbQ"
+                },
+                "childPackages": [
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_BWvrYCvBEeaKzOMW0LqtbQ",
+                      "href": "uma://_BWvrYCvBEeaKzOMW0LqtbQ#_BWvrYCvBEeaKzOMW0LqtbQ"
+                    }
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_S8ghACvpEeaKzOMW0LqtbQ",
+                      "href": "uma://_S8ghACvpEeaKzOMW0LqtbQ#_S8ghACvpEeaKzOMW0LqtbQ"
+                    }
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_jqycMCvpEeaKzOMW0LqtbQ",
+                      "href": "uma://_jqycMCvpEeaKzOMW0LqtbQ#_jqycMCvpEeaKzOMW0LqtbQ"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+                  "xmi:id": "_UMh20CyLEeaKzOMW0LqtbQ",
+                  "name": "01 IT环境管理过程",
+                  "guid": "_UMh20CyLEeaKzOMW0LqtbQ"
+                },
+                "childPackages": [
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_f_F-MC61EeaodbM2zcfHJw",
+                      "href": "uma://_f_F-MC61EeaodbM2zcfHJw#_f_F-MC61EeaodbM2zcfHJw"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+                  "xmi:id": "_V1uCMCyLEeaKzOMW0LqtbQ",
+                  "name": "02 产品功能测试过程",
+                  "guid": "_V1uCMCyLEeaKzOMW0LqtbQ"
+                },
+                "childPackages": [
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_d4Jf0C61EeaodbM2zcfHJw",
+                      "href": "uma://_d4Jf0C61EeaodbM2zcfHJw#_d4Jf0C61EeaodbM2zcfHJw"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+                  "xmi:id": "_ZWI08CyLEeaKzOMW0LqtbQ",
+                  "name": "03 产品推广过程",
+                  "guid": "_ZWI08CyLEeaKzOMW0LqtbQ"
+                },
+                "childPackages": [
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_aiz7sC61EeaodbM2zcfHJw",
+                      "href": "uma://_aiz7sC61EeaodbM2zcfHJw#_aiz7sC61EeaodbM2zcfHJw"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+                  "xmi:id": "_asx3wCyLEeaKzOMW0LqtbQ",
+                  "name": "04 产品管理过程",
+                  "guid": "_asx3wCyLEeaKzOMW0LqtbQ"
+                },
+                "childPackages": [
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_YZe3sC61EeaodbM2zcfHJw",
+                      "href": "uma://_YZe3sC61EeaodbM2zcfHJw#_YZe3sC61EeaodbM2zcfHJw"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+                  "xmi:id": "_vC6DYCyLEeaKzOMW0LqtbQ",
+                  "name": "05 产品维护过程",
+                  "guid": "_vC6DYCyLEeaKzOMW0LqtbQ"
+                },
+                "childPackages": [
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_WU6-8C61EeaodbM2zcfHJw",
+                      "href": "uma://_WU6-8C61EeaodbM2zcfHJw#_WU6-8C61EeaodbM2zcfHJw"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+                  "xmi:id": "_xpsfcCyLEeaKzOMW0LqtbQ",
+                  "name": "06 产品缺陷分析管理过程",
+                  "guid": "_xpsfcCyLEeaKzOMW0LqtbQ"
+                },
+                "childPackages": [
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_Uj0NsC61EeaodbM2zcfHJw",
+                      "href": "uma://_Uj0NsC61EeaodbM2zcfHJw#_Uj0NsC61EeaodbM2zcfHJw"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+                  "xmi:id": "_5_d3kCyLEeaKzOMW0LqtbQ",
+                  "name": "07 产品设计与实现过程方法内容(面向对象)",
+                  "guid": "_5_d3kCyLEeaKzOMW0LqtbQ"
+                },
+                "childPackages": [
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_-CqnQCyLEeaKzOMW0LqtbQ",
+                      "href": "uma://_-CqnQCyLEeaKzOMW0LqtbQ#_-CqnQCyLEeaKzOMW0LqtbQ"
+                    }
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_-Cr1YiyLEeaKzOMW0LqtbQ",
+                      "href": "uma://_-Cr1YiyLEeaKzOMW0LqtbQ#_-Cr1YiyLEeaKzOMW0LqtbQ"
+                    }
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_-Cr1aCyLEeaKzOMW0LqtbQ",
+                      "href": "uma://_-Cr1aCyLEeaKzOMW0LqtbQ#_-Cr1aCyLEeaKzOMW0LqtbQ"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+                  "xmi:id": "_BJIhYC7bEeaodbM2zcfHJw",
+                  "name": "项目过程资产(案例)",
+                  "guid": "_BJIhYC7bEeaodbM2zcfHJw"
+                },
+                "childPackages": [
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_GB9-8C7jEeaodbM2zcfHJw",
+                      "href": "uma://_GB9-8C7jEeaodbM2zcfHJw#_GB9-8C7jEeaodbM2zcfHJw"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+                  "xmi:id": "_Eap8gC7bEeaodbM2zcfHJw",
+                  "name": "28个过程总览",
+                  "name": "28个过程总览",
+                  "guid": "_Eap8gC7bEeaodbM2zcfHJw"
+                },
+                "childPackages": [
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_m_gcoCvmEeaKzOMW0LqtbQ",
+                      "href": "uma://_m_gcoCvmEeaKzOMW0LqtbQ#_m_gcoCvmEeaKzOMW0LqtbQ"
+                    }
+                  },
+                  {
+                    "$": {
+                      "xsi:type": "org.eclipse.epf.uma:ProcessComponent",
+                      "xmi:id": "_k0Hj0C-vEeaodbM2zcfHJw",
+                      "href": "uma://_k0Hj0C-vEeaodbM2zcfHJw#_k0Hj0C-vEeaodbM2zcfHJw"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "xsi:type": "org.eclipse.epf.uma:ProcessPackage",
+              "xmi:id": "_TKMJzylOEeabmZQ4OgAhFg",
+              "name": "ProcessContributions",
+              "guid": "_TKMJzylOEeabmZQ4OgAhFg"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

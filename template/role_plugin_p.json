@@ -1,0 +1,28 @@
+{
+  "$": {
+    "xsi:type": "org.eclipse.epf.uma:Role",
+    "xmi:id": "_Sg4boDbDEeatdI28KsQmww",
+    "name": "new_role",
+    "guid": "_Sg4boDbDEeatdI28KsQmww",
+    "presentationName": "New Role",
+    "briefDescription": ""
+  },
+  "methodElementProperty": [
+    {
+      "$": {
+        "xmi:id": "_TVJKIDbDEeatdI28KsQmww",
+        "name": "me_edited",
+        "value": "true"
+      }
+    }
+  ]
+,
+  "presentation": [
+    {
+      "$": {
+        "xmi:id": "-jfu8FcuQiIlLyF5gBxY8uQ",
+        "href": "uma://-jfu8FcuQiIlLyF5gBxY8uQ#-jfu8FcuQiIlLyF5gBxY8uQ"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+    "$": {
+      "xsi:type": "org.eclipse.epf.uma:Task",
+      "xmi:id": "_3479bcfbaa84a9bf0ab472",
+      "name": "接收业务需求",
+      "guid": "_3479bcfbaa84a9bf0ab472",
+      "presentationName": "接收业务需求",
+      "briefDescription": "",
+      "mandatoryInput": "_2c83c64b25701327bb1621",
+      "output": "_2c83c64b25701327bb1621",
+      "supportingMaterials": "",
+      "performedBy": "",
+      "additionallyPerformedBy": ""
+    },
+    "methodElementProperty": [
+      {
+        "$": {
+          "xmi:id": "_cPT8sDkcEeaWnYMysYl40g",
+          "name": "me_edited",
+          "value": "true"
+        }
+      }
+    ],
+    "presentation": [
+      {
+        "$": {
+          "xmi:id": "-siD5jizEm8MrSzn8JlQ_aQ",
+          "href": "uma://-siD5jizEm8MrSzn8JlQ_aQ#-siD5jizEm8MrSzn8JlQ_aQ"
+        }
+      }
+    ]
+  }

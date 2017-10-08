@@ -1,0 +1,58 @@
+{
+  "$": {
+    "xsi:type": "org.eclipse.epf.uma:ContentPackage",
+    "xmi:id": "_oU9toCgKEeaKzYzycMmkRw",
+    "name": "测试内容包",
+    "guid": "_oU9toCgKEeaKzYzycMmkRw",
+    "presentationName": "测试内容包"
+  },
+  "methodElementProperty": [
+    {
+      "$": {
+        "xmi:id": "_pa4M0CgKEeaKzYzycMmkRw",
+        "name": "me_edited",
+        "value": "true"
+      }
+    }
+  ],
+  "contentElements": [
+    {
+      "$": {
+        "xsi:type": "org.eclipse.epf.uma:Task",
+        "xmi:id": "_pB8mEDk6EeaWnYMysYl40g",
+        "name": "new_task11",
+        "guid": "_pB8mEDk6EeaWnYMysYl40g",
+        "presentationName": "New Task11",
+        "briefDescription": "1"
+      },
+      "methodElementProperty": [
+        {
+          "$": {
+            "xmi:id": "_q9P1IDk6EeaWnYMysYl40g",
+            "name": "me_edited",
+            "value": "true"
+          }
+        }
+      ]
+    },
+    {
+      "$": {
+        "xsi:type": "org.eclipse.epf.uma:Task",
+        "xmi:id": "_pvFY4Dk6EeaWnYMysYl40g",
+        "name": "new_task_2",
+        "guid": "_pvFY4Dk6EeaWnYMysYl40g",
+        "presentationName": "New Task 2",
+        "briefDescription": "1"
+      },
+      "methodElementProperty": [
+        {
+          "$": {
+            "xmi:id": "_qerp0Dk6EeaWnYMysYl40g",
+            "name": "me_edited",
+            "value": "true"
+          }
+        }
+      ]
+    }
+  ]
+}

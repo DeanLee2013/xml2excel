@@ -1,0 +1,26 @@
+{
+    "$": {
+      "xsi:type": "org.eclipse.epf.uma:Template",
+      "xmi:id": "_a6p04GKzEeaF5pX5NV6Wqw",
+      "name": "new_template",
+      "guid": "_a6p04GKzEeaF5pX5NV6Wqw",
+      "presentationName": "New Template"
+    },
+    "methodElementProperty": [
+      {
+        "$": {
+          "xmi:id": "_b_adgGKzEeaF5pX5NV6Wqw",
+          "name": "me_edited",
+          "value": "true"
+        }
+      }
+    ],
+    "presentation": [
+      {
+        "$": {
+          "xmi:id": "-spfPYYr5E27lGs7XiblCaA",
+          "href": "uma://-spfPYYr5E27lGs7XiblCaA#-spfPYYr5E27lGs7XiblCaA"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,19 @@
+{
+  "$": {
+    "xsi:type": "org.eclipse.epf.uma:Task",
+    "xmi:id": "_YAGKQDkcEeaWnYMysYl40g",
+    "name": "new_task1",
+    "guid": "_YAGKQDkcEeaWnYMysYl40g",
+    "presentationName": "New Task1",
+    "briefDescription": "22"
+  },
+  "methodElementProperty": [
+    {
+      "$": {
+        "xmi:id": "_cPT8sDkcEeaWnYMysYl40g",
+        "name": "me_edited",
+        "value": "true"
+      }
+    }
+  ]
+}
